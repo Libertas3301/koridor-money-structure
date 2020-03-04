@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/1920.css">
+    <link rel="stylesheet" href="assets/css/1800.css">
+    <link rel="stylesheet" href="assets/css/1600.css">
+    <link rel="stylesheet" href="assets/css/1400.css">
+    <link rel="stylesheet" href="assets/css/1200.css">
+    <link rel="stylesheet" href="assets/css/1000.css">
+    <link rel="stylesheet" href="assets/css/800.css">
+    <link rel="stylesheet" href="assets/css/600.css">
+    <link rel="stylesheet" href="assets/css/400.css">
+    <link rel="stylesheet" href="assets/css/reset.css" />
+    <link rel="stylesheet" href="assets/fonts/gravity/Gravity-font.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+        integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous" />
+    <link rel="stylesheet" href="assets/css/flexboxgrid.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simplebar@latest/dist/simplebar.css" />
+</head>
+
+<body>
+    <div class="bigContainer">
+        <!-- NavBar -->
+        <nav class="mainNav">
+            <a href="index.html"><img src="assets/img/logo.png" alt="Коридор logo" class="logo"></a>
+            <div class="contact-block">
+                <div class="env"></div>
+                <p class="text1">info@corridor.com</p>
+            </div>
+            <div class="phone-block">
+                <div class="phone"></div>
+                <p class="text2">+7 499 586-10-25</p>
+            </div>
+            <div class="button-block">
+                <a href="login.html" class="linkTranspButt1">
+                    <div class="transparent-button transpButt1">
+                        <p class="transpButt1Text">Вход</p>
+                    </div>
+                </a>
+                <a href="registration.html">
+                    <div class="filled-button filledButt1">
+                        <div class="user-img"></div>
+                        <p class="filledButt1Text">Регистрация</p>
+                    </div>
+                </a>
+                <div class="dropDownRelative">
+                    <div class="transparent-button transpButt2" id="customDropdown2" class="btn2">
+                        <span class="valueHolder2">
+                            <p class="transpButt2Text">RU</p>
+                            <div class="arrowDown2"></div>
+                        </span>
+                    </div>
+                </div>
+        </nav>
+        <hr>
+        <div class="avatarTextBlock">
+            <div class="avatarTextImg1"></div>
+            <div class="avatarText1">Александр</div>
+            <div class="avatarText2">Пополнить счет</div>
+        </div>
+        <div class="popupHideBlock"></div>
+        <div class="avatarPopup">
+            <div class="avatarPopupText1">На счету</div>
+            <div class="avatarPopupButton">
+                <div class="avatarPopupButtonText1">Добавить средства</div>
+            </div>
+            <div id="AvatarNameFamily" style="display: none;">Александр <br> Александрович</div>
+            <img src="assets/img/close.png" alt="" id="closePopup" style="display: none;">
+            <div class="avatarPopupText2">1</div>
+            <div class="avatarPopupText3 avatarPopupTextBlock1"><img src="assets/img/icon2.png" alt=""
+                    class="popupImg2">
+                <p class="avatarPopupText4">Рабочий стол</p>
+            </div>
+            <div class="avatarPopupText3 avatarPopupTextBlock2"><img src="assets/img/icon5.png" alt=""
+                    class="popupImg3">
+                <p class="avatarPopupText5">Мой счет</p>
+            </div>
+            <div class="avatarPopupText3 avatarPopupTextBlock3"><img src="assets/img/icon4.png" alt=""
+                    class="popupImg4">
+                <p class="avatarPopupText6">Переводы</p>
+            </div>
+            <div class="avatarPopupText3 avatarPopupTextBlock4"><img src="assets/img/icon3.png" alt=""
+                    class="popupImg5">
+                <p class="avatarPopupText7">Личные данные</p>
+            </div>
+            <div class="avatarPopupText3 avatarPopupTextBlock5"><img src="assets/img/icon1.png" alt=""
+                    class="popupImg6">
+                <p class="avatarPopupText8">Реферальная программа</p>
+            </div>
+            <div class="avatarPopupText3 avatarPopupText9">Выйти</div>
+        </div>
+        <!-- Main Container -->
+        <div class="generalInfoContent">
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="avatarPopup1">
+                        <p class="avatarPopup1Text2">Рабочий Стол</p>
+                        <img src="assets/img/logo3.png" alt="" class="avatarPopup1Img1">
+                        <p class="avatarPopup1Text3">Александр
+                            <br> Александрович</p>
+                        <hr>
+                        <div class="avatarPopupText3"><img src="assets/img/icon2.png" alt="" class="popup1Img2">
+                            <p class="avatarPopupText4">Рабочий стол</p>
+                        </div>
+                        <div class="avatarPopupText3"><img src="assets/img/icon5.png" alt="" class="popup1Img3">
+                            <p class="avatarPopupText5">Мой счет</p>
+                        </div>
+                        <div class="avatarPopupText3"><img src="assets/img/icon4.png" alt="" class="popup1Img4">
+                            <p class="avatarPopupText6">Переводы</p>
+                        </div>
+                        <div class="avatarPopupText3"><img src="assets/img/icon3.png" alt="" class="popup1Img5">
+                            <p class="avatarPopupText7">Личные данные</p>
+                        </div>
+                        <div class="avatarPopupText3"><img src="assets/img/icon1.png" alt="" class="popup1Img6">
+                            <p class="avatarPopupText8">Реферальная программа</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-8">
+                    <div class="generalInfoContentNoMoney">
+                        <div class="generalInfoContentGreyNoMoney">
+                            <p class="generalInfoContentGreyText1">Добавить средства</p>
+                            <img src="assets/img/close.png" alt="" class="contentGreyImg1">
+                            <div class="bank-card">
+                                <p class="bankCardText1">Банковская карта</p>
+                                <img src="assets/img/bank-card1.png" alt="" class="contentGreyImg2">
+                                <img src="assets/img/bank-card2.png" alt="" class="contentGreyImg3">
+                                <input type="text" class="contentGreyInput1" placeholder="Номер карты">
+                                <input type="text" class="contentGreyInput2" placeholder="Имя владельца">
+                                <input type="text" class="contentGreyInput3" placeholder="ММ / ГГ">
+                            </div>
+                            <p class="generalInfoContentGreyText2">CVV / CVV2</p>
+                            <input type="text" class="contentGreyInput4">
+                            <p class="generalInfoContentGreyText3">Трех значный код (редко четырех) который нахдится на
+                                обратной стороне карты.</p>
+                            <p class="generalInfoContentGreyText4">Сумма ввода</p>
+                            <input type="text" class="contentGreyInput5">
+                            <p class="generalInfoContentGreyText5">Валюта</p>
+                            <div class="contentGreyCurrency">
+                                <div class="contentGreyCurrency1"><img src="assets/img/rouble.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency2">
+                                <div class="contentGreyCurrency1"><img src="assets/img/dollar.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency3">
+                                <div class="contentGreyCurrency1"><img src="assets/img/euro.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="ContentGreyButton">
+                                <p class="generalInfoContentGreyText6">Внести средства</p>
+                            </div>
+                        </div>
+                        <img src="assets/img/arrow_back2.png" alt="" class="generalInfoContentNoMoneyImg">
+                        <img src="assets/img/close2.png" alt="" class="generalInfoContentNoMoneyImg2">
+                        <p class="generalInfoContentNoMoneyText">Рабочий стол</p>
+                        <p class="generalInfoContentNoMoneyText1">Необходимо добавить средства</p>
+                        <p class="generalInfoContentNoMoneyText2">Здесь будет отображаться основная информацияо
+                            состоянии
+                            счета и ваших доходах на актуальную дату.</p>
+                        <div class="generalInfoContentNoMoneyButton1">
+                            <p class="generalInfoContentNoMoneyText3">Добавить средства</p>
+                        </div>
+                        <p class="transactionContentText1">Вывод средств в течение 72 часов с момента запроса</p>
+                        <div class="transactionContent">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="assets/img/logoPerson.png" alt="" class="transactionContentImg1">
+                                    <p class="transactionContentText2">1. Личный кабинет</p>
+                                    <p class="transactionContentText3">Вывод средств, возможен из личного кабинета</p>
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="assets/img/logoPayment.png" alt="" class="transactionContentImg1">
+                                    <p class="transactionContentText2">3. Куда выводить</p>
+                                    <p class="transactionContentText3">Укажите данные карты, на которую будут выводиться
+                                        средства</p>
+
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="assets/img/logoSent.png" alt="" class="transactionContentImg1">
+                                    <p class="transactionContentText2">2. Вывести средства</p>
+                                    <p class="transactionContentText3">В личном кабинете нажмите на кнопку «Вывести
+                                        средства»</p>
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="assets/img/logoCheck.png" alt="" class="transactionContentImg1">
+                                    <p class="transactionContentText2">4. Завершить</p>
+                                    <p class="transactionContentText3">Средства поступят на указанную карту, в течение
+                                        72
+                                        часов</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="generalInfoContentMoney">
+                        <div class="generalInfoContentMoneyBlock1">
+                            <div class="generalInfoContentMoneyBlock1Text1">Заработок на сегодня</div>
+                            <img src="assets/img/info.png" alt="" class="generalInfoContentMoneyBlock1Img">
+                            <div class="generalInfoContentMoneyBlock1Text2">$12,56</div>
+                            <div class="generalInfoContentMoneyBlock1Text3">За месяц</div>
+                            <div class="generalInfoContentMoneyBlock1Text4">$364,25</div>
+                            <div class="generalInfoContentMoneyBlock1Text5">За неделю</div>
+                            <div class="generalInfoContentMoneyBlock1Text6">$76,56</div>
+                            <div class="generalInfoContentMoneyBlock1Button">
+                                <div class="generalInfoContentMoneyBlock1Text7">Сегодняшний коридор</div>
+                            </div>
+                        </div>
+                        <div class="generalInfoContentGrey">
+                            <p class="generalInfoContentGreyText1">Добавить средства</p>
+                            <img src="assets/img/close.png" alt="" class="contentGreyImg1">
+                            <div class="bank-card">
+                                <p class="bankCardText1">Банковская карта</p>
+                                <img src="assets/img/bank-card1.png" alt="" class="contentGreyImg2">
+                                <img src="assets/img/bank-card2.png" alt="" class="contentGreyImg3">
+                                <input type="text" class="contentGreyInput1" placeholder="Номер карты">
+                                <input type="text" class="contentGreyInput2" placeholder="Имя владельца">
+                                <input type="text" class="contentGreyInput3" placeholder="ММ / ГГ">
+                            </div>
+                            <p class="generalInfoContentGreyText2">CVV / CVV2</p>
+                            <input type="text" class="contentGreyInput4">
+                            <p class="generalInfoContentGreyText3">Трех значный код (редко четырех) который нахдится на
+                                обратной стороне карты.</p>
+                            <p class="generalInfoContentGreyText4">Сумма ввода</p>
+                            <input type="text" class="contentGreyInput5">
+                            <p class="generalInfoContentGreyText5">Валюта</p>
+                            <div class="contentGreyCurrency">
+                                <div class="contentGreyCurrency1"><img src="assets/img/rouble.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency2">
+                                <div class="contentGreyCurrency1"><img src="assets/img/dollar.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency3">
+                                <div class="contentGreyCurrency1"><img src="assets/img/euro.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="ContentGreyButton">
+                                <p class="generalInfoContentGreyText6">Внести средства</p>
+                            </div>
+                        </div>
+                        <div class="generalInfoContentMoneyBlock2">
+                            <div class="generalInfoContentMoneyBlock2Text1">Мой счет</div>
+                            <div class="generalInfoContentMoneyBlock2Text2">$2 596</div>
+                            <div class="generalInfoContentMoneyBlock2Button">
+                                <div class="generalInfoContentMoneyBlock2Text3">Добавить средства</div>
+                            </div>
+                        </div>
+                        <div class="generalInfoContentMoneyBlock3">
+                            <div class="generalInfoContentMoneyBlock3Text1">Реферальная программа</div>
+                            <div class="generalInfoContentMoneyBlock3Text2">$98</div>
+                        </div>
+                        <div class="generalInfoContentMoneyBlock4">
+                            <div class="generalInfoContentMoneyBlock4Text1">Дохода с учетом комиссии</div>
+                            <img src="assets/img/info.png" alt="" class="generalInfoContentMoneyBlock4Img">
+                            <div class="generalInfoContentMoneyBlock4Text2">$641,98</div>
+                        </div>
+                    </div>
+                    <div class="bankAccountBlock">
+                        <div class="generalInfoContentGrey">
+                            <p class="generalInfoContentGreyText1">Добавить средства</p>
+                            <img src="assets/img/close.png" alt="" class="contentGreyImg1">
+                            <div class="bank-card">
+                                <p class="bankCardText1">Банковская карта</p>
+                                <img src="assets/img/bank-card1.png" alt="" class="contentGreyImg2">
+                                <img src="assets/img/bank-card2.png" alt="" class="contentGreyImg3">
+                                <input type="text" class="contentGreyInput1" placeholder="Номер карты">
+                                <input type="text" class="contentGreyInput2" placeholder="Имя владельца">
+                            </div>
+                            <p class="generalInfoContentGreyText4">Сумма ввода</p>
+                            <input type="text" class="contentGreyInput5">
+                            <p class="generalInfoContentGreyText5">Валюта</p>
+                            <div class="contentGreyCurrency">
+                                <div class="contentGreyCurrency1"><img src="assets/img/rouble.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency2">
+                                <div class="contentGreyCurrency1"><img src="assets/img/dollar.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency3">
+                                <div class="contentGreyCurrency1"><img src="assets/img/euro.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="ContentGreyButton">
+                                <p class="generalInfoContentGreyText6">Внести средства</p>
+                            </div>
+                        </div>
+                        <div class="generalInfoContentGrey2">
+                            <p class="generalInfoContentGreyText1">Вывод средств</p>
+                            <img src="assets/img/close.png" alt="" class="contentGreyImg1">
+                            <div class="bank-card">
+                                <p class="bankCardText1">Банковская карта</p>
+                                <img src="assets/img/bank-card1.png" alt="" class="contentGreyImg2">
+                                <img src="assets/img/bank-card2.png" alt="" class="contentGreyImg3">
+                                <input type="text" class="contentGreyInput1" placeholder="Номер карты">
+                                <input type="text" class="contentGreyInput2" placeholder="Имя владельца">
+                            </div>
+                            <p class="generalInfoContentGreyText4">Сумма ввода</p>
+                            <input type="text" class="contentGreyInput5">
+                            <p class="generalInfoContentGreyText5">Валюта</p>
+                            <div class="contentGreyCurrency">
+                                <div class="contentGreyCurrency1"><img src="assets/img/rouble.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency2">
+                                <div class="contentGreyCurrency1"><img src="assets/img/dollar.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency3">
+                                <div class="contentGreyCurrency1"><img src="assets/img/euro.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="ContentGreyButton">
+                                <p class="generalInfoContentGreyText6">Вывести средства</p>
+                            </div>
+                        </div>
+                        <div class="generalInfoContentGrey3">
+                            <p class="generalInfoContentGreyText1">Добавить средства</p>
+                            <img src="assets/img/close.png" alt="" class="contentGreyImg1">
+                            <div class="bank-card">
+                                <p class="bankCardText1">Банковская карта</p>
+                                <img src="assets/img/bank-card1.png" alt="" class="contentGreyImg2">
+                                <img src="assets/img/bank-card2.png" alt="" class="contentGreyImg3">
+                                <input type="text" class="contentGreyInput1" placeholder="Номер карты">
+                                <input type="text" class="contentGreyInput2" placeholder="Имя владельца">
+                                <input type="text" class="contentGreyInput3" placeholder="ММ / ГГ">
+                            </div>
+                            <p class="generalInfoContentGreyText2">CVV / CVV2</p>
+                            <input type="text" class="contentGreyInput4">
+                            <p class="generalInfoContentGreyText3">Трех значный код (редко четырех) который нахдится на
+                                обратной стороне карты.</p>
+                            <p class="generalInfoContentGreyText4">Сумма ввода</p>
+                            <input type="text" class="contentGreyInput5">
+                            <p class="generalInfoContentGreyText5">Валюта</p>
+                            <div class="contentGreyCurrency">
+                                <div class="contentGreyCurrency1"><img src="assets/img/rouble.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency2">
+                                <div class="contentGreyCurrency1"><img src="assets/img/dollar.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency3">
+                                <div class="contentGreyCurrency1"><img src="assets/img/euro.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="ContentGreyButton">
+                                <p class="generalInfoContentGreyText6">Внести средства</p>
+                            </div>
+                        </div>
+                        <img src="assets/img/arrow_back2.png" alt="" class="bankAccountBlockImg1">
+                        <img src="assets/img/close2.png" alt="" class="bankAccountBlockImg2">
+                        <p class="bankAccountBlockText">Рабочий стол</p>
+                        <p class="bankAccountBlockText1">Мой счет</p>
+                        <p class="bankAccountBlockText2">$2 596</p>
+                        <div class="bankAccountBlockButton1">
+                            <div class="bankAccountBlockButton1Text1">Вывод средств</div>
+                        </div>
+                        <div class="bankAccountBlockButton2">
+                            <div class="bankAccountBlockButton1Text2">Добавить средства</div>
+                        </div>
+                        <hr>
+                        <div class="todayIncome">
+                            <div class="row">
+                                <div class="col-sm-1"></div>
+                                <div class="col-sm-2">
+                                    <div class="todayIncomeText1">24 мая 2018 (сегодня)</div>
+                                    <div class="todayIncomeText2">+$364,25</div>
+                                    <div class="percentBlock1 hoverBlock1"
+                                        style="position: relative; left: -72%; top: -5px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">9:35</span>
+                                        <span class="calendar2Text2">0,22%</span>
+                                        <p class="calendar2Text3">Центральный
+                                            <br> банк Российской
+                                            <br> Федерации</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock2"
+                                        style="position: relative; left: -47%; top: 42px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">10:12</span>
+                                        <span class="calendar2Text2 CompText2">0,19%</span>
+                                        <p class="calendar2Text3">Немецкий
+                                            <br> федеральный банк</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock3"
+                                        style="position: relative; left: -22%; top: 42px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">10:59</span>
+                                        <span class="calendar2Text2 CompText3">0,02%</span>
+                                        <p class="calendar2Text3">Центральный
+                                            <br> банк Кипра</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock5"
+                                        style="position: relative; left: 3%; top: 58px;">
+                                        <div class="calendar2Img1 calendar2Img1SecVal"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1 calendar2Text1SecVal">12:36</span>
+                                        <span class="calendar2Text2 calendar2Text2SecVal">+$5.67</span>
+                                        <p class="calendar2Text3">Национальный
+                                            <br> банк Румынии</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock4"
+                                        style="position: relative; left: 28%; top: 48px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">10:59</span>
+                                        <span class="calendar2Text2 CompText4">0,02%</span>
+                                        <p class="calendar2Text3">Центральный
+                                            <br> банк Кипра</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-1"></div>
+                            </div>
+                        </div>
+                        <div class="yesterdayIncome">
+                            <div class="row">
+                                <div class="col-sm-1"></div>
+                                <div class="col-sm-2">
+                                    <div class="yesterdayIncomeText1">23 мая 2018</div>
+                                    <div class="yesterdayIncomeText2">+$364,25</div>
+                                    <div class="percentBlock1 hoverBlock1"
+                                        style="position: relative; left: -72%; top: -5px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">9:35</span>
+                                        <span class="calendar2Text2">0,22%</span>
+                                        <p class="calendar2Text3">Центральный
+                                            <br> банк Российской
+                                            <br> Федерации</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock2"
+                                        style="position: relative; left: -47%; top: 42px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">10:12</span>
+                                        <span class="calendar2Text2 CompText2">0,19%</span>
+                                        <p class="calendar2Text3">Немецкий
+                                            <br> федеральный банк</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock3"
+                                        style="position: relative; left: -22%; top: 42px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">10:59</span>
+                                        <span class="calendar2Text2 CompText3">0,02%</span>
+                                        <p class="calendar2Text3">Центральный
+                                            <br> банк Кипра</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock5"
+                                        style="position: relative; left: 3%; top: 58px;">
+                                        <div class="calendar2Img1 calendar2Img1SecVal"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1 calendar2Text1SecVal">12:36</span>
+                                        <span class="calendar2Text2 calendar2Text2SecVal">+$5.67</span>
+                                        <p class="calendar2Text3">Национальный
+                                            <br> банк Румынии</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock4"
+                                        style="position: relative; left: 28%; top: 48px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">10:59</span>
+                                        <span class="calendar2Text2 CompText4">0,02%</span>
+                                        <p class="calendar2Text3">Центральный
+                                            <br> банк Кипра</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-1"></div>
+                            </div>
+                        </div>
+                        <p class="bankAccountBlockText3">Показать больше маршрутов</p>
+                        <div class="showMoreIncome">
+                            <div class="row">
+                                <div class="col-sm-1"></div>
+                                <div class="col-sm-2">
+                                    <div class="showMoreIncomeText1">22 мая 2018</div>
+                                    <div class="showMoreIncomeText2">+$364,25</div>
+                                    <div class="percentBlock1 hoverBlock1"
+                                        style="position: relative; left: -72%; top: -5px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">9:35</span>
+                                        <span class="calendar2Text2">0,22%</span>
+                                        <p class="calendar2Text3">Центральный
+                                            <br> банк Российской
+                                            <br> Федерации</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock2"
+                                        style="position: relative; left: -47%; top: 42px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">10:12</span>
+                                        <span class="calendar2Text2 CompText2">0,19%</span>
+                                        <p class="calendar2Text3">Немецкий
+                                            <br> федеральный банк</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock3"
+                                        style="position: relative; left: -22%; top: 42px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">10:59</span>
+                                        <span class="calendar2Text2 CompText3">0,02%</span>
+                                        <p class="calendar2Text3">Центральный
+                                            <br> банк Кипра</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock5"
+                                        style="position: relative; left: 3%; top: 58px;">
+                                        <div class="calendar2Img1 calendar2Img1SecVal"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1 calendar2Text1SecVal">12:36</span>
+                                        <span class="calendar2Text2 calendar2Text2SecVal">+$5.67</span>
+                                        <p class="calendar2Text3">Национальный
+                                            <br> банк Румынии</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="percentBlock1 hoverBlock4"
+                                        style="position: relative; left: 28%; top: 48px;">
+                                        <div class="calendar2Img1"><img class="calendar2ImgFirst1Id"
+                                                src="assets/img/clock.png" alt=""></div>
+                                        <div class="calendar2Img2"><img src="assets/img/arrow-top.png" alt=""></div>
+                                        <div class="calendar2Line"></div>
+                                        <span class="calendar2Text1">10:59</span>
+                                        <span class="calendar2Text2 CompText4">0,02%</span>
+                                        <p class="calendar2Text3">Центральный
+                                            <br> банк Кипра</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-1"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="transactionContentMoney">
+                        <div class="generalInfoContentGrey2 generalInfoContentGrey21">
+                            <p class="generalInfoContentGreyText1">Вывод средств</p>
+                            <img src="assets/img/close.png" alt="" class="contentGreyImg1">
+                            <div class="bank-card">
+                                <p class="bankCardText1">Банковская карта</p>
+                                <img src="assets/img/bank-card1.png" alt="" class="contentGreyImg2">
+                                <img src="assets/img/bank-card2.png" alt="" class="contentGreyImg3">
+                                <input type="text" class="contentGreyInput1" placeholder="Номер карты">
+                                <input type="text" class="contentGreyInput2" placeholder="Имя владельца">
+                            </div>
+                            <p class="generalInfoContentGreyText4">Сумма ввода</p>
+                            <input type="text" class="contentGreyInput5">
+                            <p class="generalInfoContentGreyText5">Валюта</p>
+                            <div class="contentGreyCurrency">
+                                <div class="contentGreyCurrency1"><img src="assets/img/rouble.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency2">
+                                <div class="contentGreyCurrency1"><img src="assets/img/dollar.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency3">
+                                <div class="contentGreyCurrency1"><img src="assets/img/euro.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="ContentGreyButton">
+                                <p class="generalInfoContentGreyText6">Вывести средства</p>
+                            </div>
+                        </div>
+                        <div class="generalInfoContentGrey3 generalInfoContentGrey13">
+                            <p class="generalInfoContentGreyText1">Добавить средства</p>
+                            <img src="assets/img/close.png" alt="" class="contentGreyImg1">
+                            <div class="bank-card">
+                                <p class="bankCardText1">Банковская карта</p>
+                                <img src="assets/img/bank-card1.png" alt="" class="contentGreyImg2">
+                                <img src="assets/img/bank-card2.png" alt="" class="contentGreyImg3">
+                                <input type="text" class="contentGreyInput1" placeholder="Номер карты">
+                                <input type="text" class="contentGreyInput2" placeholder="Имя владельца">
+                                <input type="text" class="contentGreyInput3" placeholder="ММ / ГГ">
+                            </div>
+                            <p class="generalInfoContentGreyText2">CVV / CVV2</p>
+                            <input type="text" class="contentGreyInput4">
+                            <p class="generalInfoContentGreyText3">Трех значный код (редко четырех) который нахдится на
+                                обратной стороне карты.</p>
+                            <p class="generalInfoContentGreyText4">Сумма ввода</p>
+                            <input type="text" class="contentGreyInput5">
+                            <p class="generalInfoContentGreyText5">Валюта</p>
+                            <div class="contentGreyCurrency">
+                                <div class="contentGreyCurrency1"><img src="assets/img/rouble.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency2">
+                                <div class="contentGreyCurrency1"><img src="assets/img/dollar.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="contentGreyCurrency3">
+                                <div class="contentGreyCurrency1"><img src="assets/img/euro.png" alt=""
+                                        class="contentGreyCurrency1Img"></div>
+                            </div>
+                            <div class="ContentGreyButton">
+                                <p class="generalInfoContentGreyText6">Внести средства</p>
+                            </div>
+                        </div>
+                        <img src="assets/img/arrow_back2.png" alt="" class="bankAccountBlockImg1">
+                        <img src="assets/img/close2.png" alt="" class="bankAccountBlockImg2">
+                        <p class="bankAccountBlockText">Рабочий стол</p>
+                        <p class="bankAccountBlockText1">Мой счет</p>
+                        <p class="bankAccountBlockText2">$2 596</p>
+                        <div class="bankAccountBlockButton1 bankAccountClickBlockButton1">
+                            <div class="bankAccountBlockButton1Text1">Вывод средств</div>
+                        </div>
+                        <div class="bankAccountBlockButton12 bankAccountClickBlockButton2">
+                            <div class="bankAccountBlockButton1Text2">Добавить средства</div>
+                        </div>
+                        <hr>
+                        <p class="bankAccountBlock1Text3">История переводов</p>
+                        <div class="transactioHistoryBlock transactioHistoryBlock1">
+                            <p class="bankAccountBlockText4">20 мая 2018</p>
+                            <p class="bankAccountBlockText5">20:29</p>
+                            <p class="bankAccountBlockText7">+$1 329</p>
+                            <img src="assets/img/logoArrowDown.png" alt="" class="bankAccountBlockImg3">
+                            <p class="bankAccountBlockText6">Пополнение счета</p>
+                            <hr>
+                        </div>
+                        <div class="transactioHistoryBlock transactioHistoryBlock2">
+                            <p class="bankAccountBlockText4">20 мая 2018</p>
+                            <p class="bankAccountBlockText5">20:29</p>
+                            <p class="bankAccountBlockText7">+$1 329</p>
+                            <img src="assets/img/logoArrowDown.png" alt="" class="bankAccountBlockImg3">
+                            <p class="bankAccountBlockText6">Пополнение счета</p>
+                            <hr>
+                        </div>
+                        <div class="transactioHistoryBlock transactioHistoryBlock3">
+                            <p class="bankAccountBlockText4">20 мая 2018</p>
+                            <p class="bankAccountBlockText5">20:29</p>
+                            <p class="bankAccountBlockText7">+$1 329</p>
+                            <img src="assets/img/logoArrowToTop.png" alt="" class="bankAccountBlockImg3">
+                            <p class="bankAccountBlockText6">Вывод средств</p>
+                            <hr>
+                        </div>
+                        <div class="transactioHistoryBlock transactioHistoryBlock4">
+                            <p class="bankAccountBlockText4">20 мая 2018</p>
+                            <p class="bankAccountBlockText5">20:29</p>
+                            <p class="bankAccountBlockText7">+$1 329</p>
+                            <img src="assets/img/logoArrowDown.png" alt="" class="bankAccountBlockImg3">
+                            <p class="bankAccountBlockText6">Пополнение счета</p>
+                            <hr>
+                        </div>
+                        <p class="linkText1">Показать больше операций</p>
+                        <div class="transactioHistoryBlock transactioHistoryBlock5">
+                            <p class="bankAccountBlockText4">20 мая 2018</p>
+                            <p class="bankAccountBlockText5">20:29</p>
+                            <p class="bankAccountBlockText7">+$1 329</p>
+                            <img src="assets/img/logoArrowDown.png" alt="" class="bankAccountBlockImg3">
+                            <p class="bankAccountBlockText6">Пополнение счета</p>
+                            <hr>
+                        </div>
+                        <div class="transactioHistoryBlock transactioHistoryBlock6">
+                            <p class="bankAccountBlockText4">20 мая 2018</p>
+                            <p class="bankAccountBlockText5">20:29</p>
+                            <p class="bankAccountBlockText7">+$1 329</p>
+                            <img src="assets/img/logoArrowDown.png" alt="" class="bankAccountBlockImg3">
+                            <p class="bankAccountBlockText6">Пополнение счета</p>
+                            <hr>
+                        </div>
+                    </div>
+                    <div class="persInfoBlock">
+                        <img src="assets/img/arrow_back2.png" alt="" class="bankAccountBlockImg1">
+                        <img src="assets/img/close2.png" alt="" class="bankAccountBlockImg2">
+                        <p class="bankAccountBlockText">Рабочий стол</p>
+                        <p class="persInfoBlockText1">Редкатирование фото</p>
+                        <img src="assets/img/logo3.png" alt="" class="persInfoBlockImg1">
+                        <p class="persInfoBlockText2">Загрузить фото</p>
+                        <p class="persInfoBlockText3">Личные данные</p>
+                        <div class="persDataModule">
+                            <p class="persDataModuleText1">Имя</p>
+                            <input type="text" class="persDataModuleInput1">
+                            <p class="persDataModuleText2">Телефон</p>
+                            <input type="text" class="persDataModuleInput2">
+                            <p class="persDataModuleText3">Фамилия</p>
+                            <input type="text" class="persDataModuleInput3">
+                            <p class="persDataModuleText4">E-mail</p>
+                            <input type="text" class="persDataModuleInput4">
+                        </div>
+                        <p class="persInfoBlockText4">Редактирование пароля</p>
+                        <div class="passwordModule">
+                            <p class="passwordModuleText1">Забыли пароль?</p>
+                            <p class="passwordModuleText2">Старый пароль</p>
+                            <input type="password" class="passwordModuleInput1">
+                            <p class="passwordModuleText3">Новый пароль</p>
+                            <input type="password" class="passwordModuleInput2">
+                            <p class="passwordModuleText4">Повторите новый пароль</p>
+                            <input type="password" class="passwordModuleInput3">
+                        </div>
+                        <div class="persInfoBlockButton">
+                            <div class="persInfoBlockButtonText1">Сохранить</div>
+                        </div>
+                    </div>
+                    <div class="referalProgramBlock">
+                        <img src="assets/img/arrow_back2.png" alt="" class="bankAccountBlockImg1">
+                        <img src="assets/img/close2.png" alt="" class="bankAccountBlockImg2">
+                        <p class="bankAccountBlockText">Рабочий стол</p>
+                        <p class="referalProgramBlockText1">Пригласите друзей</p>
+                        <p class="referalProgramBlockText2">Копируйте и отправляйте реферальную ссылку друзьям. Вы
+                            получите
+                            15% с каждой транзакции пользователя, зарегистрировавшегося по вашей ссылке.</p>
+                        <div class="referalProgramBlockSection">
+                            <p class="referalProgramBlockText">https://corridor.com/soc/sh-1?r=210211</p>
+                            <img src="assets/img/copy.png" alt="" class="referalProgramBlockSectionImg">
+                        </div>
+                        <p class="referalProgramBlockTex3">Перед началом работы ознакомтесь с общими</p>
+                        <p class="referalProgramBlockTex4">правилами реферальной программы</p>
+                        <div class="referalProgramBlockContent1">
+                            <div class="referalProgramBlockContent1Line"></div>
+                            <div class="referalProgramBlockContent1Text1">Ваши друзья</div>
+                            <div class="referalProgramBlockContent1Text2">19</div>
+                        </div>
+                        <div class="referalProgramBlockContent2">
+                            <div class="referalProgramBlockContent1Line"></div>
+                            <div class="referalProgramBlockContent1Text1">Доход от друзей</div>
+                            <div class="referalProgramBlockContent1Text2">$26,57</div>
+                        </div>
+                        <div class="referalProgramBlockContent3">
+                            <div class="referalProgramBlockContent1Line"></div>
+                            <div class="referalProgramBlockContent1Text1">Взнос друзей</div>
+                            <div class="referalProgramBlockContent1Text2">$3 500</div>
+                        </div>
+                        <div class="referalProgramBlockContent4">
+                            <div class="referalProgramBlockContent1Line"></div>
+                            <div class="referalProgramBlockContent1Text1">Доход от друзей
+                                <br> в ожидании</div>
+                            <div class="referalProgramBlockContent1Text2">$98,07</div>
+                        </div>
+                    </div>
+                    <div class="generalInfoContentGrey5">
+                        <img src="assets/img/close.png" alt="" class="contentGreyImg1">
+                        <p class="referalProgramBlockGreyBlockText1">Ссылка скопирована</p>
+                        <p class="referalProgramBlockGreyBlockText2">Отправьте вашим друзьям ссылку, для того чтобы они
+                            прошли регистрацию на нашем сайте.</p>
+                    </div>
+                </div>
+                <div class="referalProgramBlock2">
+                    <p class="referalProgramBlock2Text1">Общие правила реферальной программы:</p>
+                    <div class="row">
+                        <div class="col-sm-1"></div>
+                        <div class="col-sm-3 referalBlockToClick1">
+                            <p class="referalProgramBlock2Text2">01</p>
+                            <p class="referalProgramBlock2Text3">
+                                Категорически запрещается рассылать СПАМ (в личные сообщения социальных сетей, в группах
+                                и
+                                сообществах магазинов-партнеров, в e-mail-рассылках и др.) для привлечения
+                                пользователей.
+                            </p>
+                        </div>
+                        <div class="col-sm-3 referalBlockToClick2">
+                            <p class="referalProgramBlock2Text2">02</p>
+                            <p class="referalProgramBlock2Text3">
+                                Внимание: любое упоминание названия Corridor в рекламных материалах, сообщения в группе
+                                Corridor или в личных сообщениях подписчикам Corridor строго запрещается.
+                            </p>
+                        </div>
+                        <div class="col-sm-3 referalBlockToClick3">
+                            <p class="referalProgramBlock2Text2">03</p>
+                            <p class="referalProgramBlock2Text3">
+                                Строго запрещается использование названия бренда Corridor и магазинов-партнеров в
+                                доменных
+                                именах сайтов, созданных для привлечения трафика по ПП.
+                            </p>
+                        </div>
+                        <div class="col-sm-2"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-1"></div>
+                        <div class="col-sm-6 referalBlockToClick4">
+                            <p class="referalProgramBlock2Text2">04</p>
+                            <p class="referalProgramBlock2Text5">Строго запрещается любое создание мобильных приложений,
+                                расширений и групп в социальных сетях от имени сервиса и с использованием логотипа
+                                Corridor.
+                                Также это касается и подтягивания страниц с сайта Corridor внутри приложений.</p>
+                        </div>
+                        <div class="col-sm-4 referalBlockToClick5" style="margin-left: 100px;">
+                            <p class="referalProgramBlock2Text2">05</p>
+                            <p class="referalProgramBlock2Text7">Запрещено использовать контекстную рекламу для
+                                привлечения
+                                рефералов.</p>
+                        </div>
+                        <div class="col-sm-1"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer -->
+        <div class="footer">
+            <img src="assets/img/logo.png" class="footerLogo" />
+            <p class="footerEmail">
+                info@corridor.com
+                <img src="assets/img/envelope.svg" class="footerEmailImg" />
+            </p>
+            <p class="footerPhone">
+                +7 499 586-10-25
+                <img src="assets/img/phone.svg" class="footerPhoneImg" />
+            </p>
+            <hr />
+            <nav>
+                <a href="">
+                    <div class="footerNav">Политика конфиденциальности</div>
+                </a>
+                <a href="">
+                    <div class="footerNav">Правила использования</div>
+                </a>
+                <a href="">
+                    <div class="footerNav">Безопасность</div>
+                </a>
+                <a href="">
+                    <div class="footerNav">Комиссия</div>
+                </a>
+                <a href="">
+                    <div class="footerNav">Контакты</div>
+                </a>
+            </nav>
+            <div class="footerText1">
+                ИП «Коридор» использует файлы «cookie», с целью персонализации сервисов и повышения удобства пользования
+                веб-сайтом. «Cookie» представляют собой небольшие файлы, содержащие информацию о предыдущих посещениях
+                веб-сайта. Если вы не хотите использовать файлы «cookie», измените настройки браузера.
+            </div>
+            <div class="footerText2">©2018 ИП «Коридор»</div>
+            <img class="footerImg" src="assets/img/sponsor.png" alt="" />
+        </div>
+    </div>
+    </div>
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/simplebar@latest/dist/simplebar.min.js"></script>
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/script2.js"></script>
+</body>
+
+</html>

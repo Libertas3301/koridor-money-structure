@@ -1,0 +1,4076 @@
+@media only screen and (max-width: 400px) and (min-width: 200px) {
+  .contact-block {
+    position: relative;
+    left: -142px;
+  }
+  .imgHeader > .row > .col-sm-6 > .box > .textBox {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 133px;
+    z-index: 2;
+    left: 35%;
+  }
+  .avatarTextBlock {
+    position: relative;
+    left: 790px;
+    top: -64px;
+  }
+  .avatarText1 {
+    width: 78px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    left: 5%;
+    top: -44px;
+    display: none;
+  }
+  .avatarText2 {
+    width: 91px;
+    height: 15px;
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: underline;
+    position: relative;
+    left: 5%;
+    top: -36px;
+    display: none;
+  }
+  .avatarTextImg1 {
+    width: 50px;
+    height: 50px;
+    background-image: url("../img/logo2.png");
+    background-repeat: no-repeat;
+    display: block;
+  }
+  .transpButt1 {
+    width: 50px;
+    height: 0px;
+    margin-left: 892px;
+    margin-top: -26px;
+    border-radius: 2px;
+    position: relative;
+    left: 8%;
+  }
+  .filled-button {
+    border: 1px solid white;
+    background-color: white;
+    color: #0c128f;
+    position: relative;
+    left: 12%;
+  }
+  .dropDownRelative3 {
+    position: relative;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -14.4%;
+    top: 12px;
+    z-index: 99;
+  }
+  #customDropdown3 {
+    position: absolute;
+    cursor: pointer;
+    left: -14.4%;
+    top: 12px;
+    z-index: 99;
+  }
+  .avatarTextImg1 {
+    width: 50px;
+    height: 50px;
+    background-image: url("../img/avatar1.png");
+    background-repeat: no-repeat;
+  }
+  .calendarNumber {
+    display: inline-block;
+    position: relative;
+    width: 70px;
+    height: 70px;
+    margin-left: 20px;
+    z-index: 3;
+  }
+  .calendar2 > .row {
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+  }
+  .calendar {
+    background-color: #edf2f9;
+    width: 100%;
+    height: 544px;
+    position: relative;
+    left: 0px;
+  }
+  #customDropdown {
+    position: absolute;
+    cursor: pointer;
+    left: 0.2%;
+    top: 89px;
+    z-index: 3;
+  }
+  .terminologyText1 {
+    width: 360px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    left: 0;
+    margin-top: 50px;
+    margin-bottom: 40px;
+  }
+  .terminologyBlock11 {
+    position: relative;
+  }
+  .terminologyBlock1 {
+    width: 360px;
+    height: 430px;
+    background-color: #0c128f;
+    position: relative;
+    left: 5.5px;
+  }
+  .terminologyBlock2 {
+    top: 134px;
+  }
+  .terminologyBlock3 {
+    top: 82px;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: 11%;
+  }
+  .calendarImg1 {
+    position: relative;
+    top: -22.5px;
+    left: 949px;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    z-index: 4;
+    padding: 10px;
+  }
+  .calendar2 {
+    position: relative;
+    top: -61px;
+    left: -5px;
+  }
+  .terminologyBlock {
+    position: relative;
+    left: 10%;
+  }
+  .listOfCountriesBlock > .container > .row > .col-sm-4 {
+    position: relative;
+    left: -5%;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: 0;
+  }
+  .money12 {
+    position: relative;
+    top: -611px;
+    left: 948px !important;
+    opacity: 0.5;
+    font-size: 60px;
+    left: 1083px;
+    color: #ffffff;
+  }
+  .money15 {
+    position: relative;
+    top: -1059px;
+    opacity: 0.5;
+    font-size: 60px;
+    left: 945px;
+    color: #ffffff;
+  }
+  .videoBlockImg {
+    background-image: url(../img/VideoBlockImgPNG.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    width: 600px;
+    height: 266px;
+    opacity: 1.5;
+    margin-top: 130px;
+    margin-left: -50px;
+  }
+  .stripe1 {
+    background-image: url(../img/YtShape1.svg);
+    position: relative;
+    background-repeat: no-repeat;
+    width: 15%;
+    height: 61px;
+    left: 45%;
+    top: 45%;
+  }
+  .videoBlockText2 {
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 28px;
+    position: relative;
+    left: -25px;
+    top: 190px;
+    width: 360px;
+    height: 112px;
+  }
+  .videoBlockText1 {
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 33px;
+    font-weight: 700;
+    position: relative;
+    left: -25px;
+    top: 188px;
+    margin-bottom: 20px;
+  }
+  .calendar > .row > .col-sm-11 {
+    position: relative;
+    left: -57px;
+  }
+  .calendarNumber {
+    display: inline-block;
+    position: relative;
+    width: 70px;
+    height: 70px;
+    margin-left: 5px;
+    z-index: 3;
+  }
+  .arrowsBlock {
+    position: relative;
+    top: -37px;
+    left: -27%;
+    width: 200px;
+  }
+  .calendar2 {
+    position: relative;
+    top: -61px;
+    left: -45px;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: 11%;
+  }
+  .terminologyText2 {
+    width: 280px;
+    height: 31px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 18px;
+    font-weight: 700;
+    position: relative;
+    margin: 0 auto;
+    top: 40px;
+    left: 24px;
+  }
+  .terminologyBlock1 {
+    width: 265px;
+    height: 391px;
+    background-color: #0c128f;
+    position: relative;
+    left: 5.5px;
+  }
+  .terminologyBlock2 {
+    top: 134px;
+  }
+  .terminologyBlock2 {
+    top: 134px;
+  }
+  .terminologyText4 {
+    width: 79px;
+    height: 19px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    margin: 0 auto;
+    top: 13px;
+  }
+  .terminologyButton1 {
+    width: 120px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    position: relative;
+    top: 58px;
+    left: 10%;
+  }
+  .terminologyBlock3 .terminologyButton1 {
+    top: 17px;
+  }
+  .terminologyBlock11 .terminologyButton1 {
+    top: 38px;
+  }
+  .terminologyText3 {
+    width: 195px;
+    height: 242px;
+    color: #ffffff;
+    font-family: "Gravity Book";
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    margin: 0 auto;
+    top: 50px;
+    left: -9px;
+  }
+  .terminologyBlock3 .terminologyText3 {
+    top: 68px;
+  }
+  .terminologyBlock {
+    position: relative;
+    left: 12%;
+    width: 860px;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: -38%;
+  }
+  .terminologyLine {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #dbdcee;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    left: 127%;
+    top: 71px;
+  }
+  .termBall1 {
+    width: 28px;
+    height: 28px;
+    top: 30px;
+    left: 121%;
+    z-index: -2;
+    display: none;
+  }
+  .listOfCountriesBlock1 {
+    position: relative;
+    left: 100px;
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    top: 80px;
+    left: 43%;
+  }
+  .listOfCountriesText2 {
+    width: 280px;
+    height: 22px;
+    opacity: 0.5;
+    color: #ffffff;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    text-decoration: underline;
+    position: relative;
+    top: -129px;
+    left: 8.5%;
+    cursor: pointer;
+  }
+  .listOfCountriesText1 {
+    width: 280px;
+    height: 31px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 26px;
+    font-weight: 700;
+    position: relative;
+    top: -126px;
+    left: 8%;
+  }
+  .listOfCountriesBlock > .container > .row {
+    position: relative;
+    left: -55px;
+  }
+  .countryArrow {
+    position: relative;
+    left: -84px;
+  }
+  .countryBall1 {
+    width: 28px;
+    height: 28px;
+    top: 30px;
+    left: 165%;
+    z-index: 2;
+    display: none;
+  }
+  .countryLine {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #dbdcee;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    left: 156%;
+    top: 71px;
+  }
+  .footerEmail {
+    width: 127px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: 16px;
+    left: 29%;
+  }
+  .footerPhone {
+    width: 145px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: -2px;
+    left: 50%;
+  }
+  .footerText1 {
+    width: 80%;
+    color: #ffffff;
+    font-family: "Gravity Book";
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 16px;
+    position: relative;
+    top: 136px;
+    left: 8.5%;
+  }
+  .footerImg {
+    position: relative;
+    top: 159px;
+    left: 59%;
+    width: 394px;
+  }
+  .contact-block {
+    display: none;
+  }
+  .phone-block {
+    display: none;
+  }
+  .avatarTextBlock {
+    position: relative;
+    left: 748px;
+    top: -66px;
+  }
+  .avatarText1 {
+    width: 78px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    left: 6%;
+    top: -44px;
+    display: block;
+  }
+  .avatarText2 {
+    width: 91px;
+    height: 15px;
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: underline;
+    position: relative;
+    left: 6%;
+    top: -36px;
+    display: block;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -506px;
+    top: 6px;
+    z-index: 99;
+  }
+  .transparent-button {
+    border: none;
+    padding: 15px;
+    line-height: 1%;
+    text-align: center;
+    color: white;
+    font-family: "Gravity Bold";
+  }
+  .arrowDown2 {
+    display: none;
+  }
+  .money7 {
+    position: relative;
+    top: -942px;
+    opacity: 0.5;
+    font-size: 60px;
+    left: 500px;
+    color: #ffffff;
+  }
+  .videoBlockImg {
+    background-image: url(../img/VideoBlockImgPNG.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    width: 400px;
+    height: 266px;
+    opacity: 1.5;
+    margin-top: 130px;
+    margin-left: 44px;
+  }
+  .stripe1 {
+    background-image: url(../img/YtShape1.svg);
+    position: relative;
+    background-repeat: no-repeat;
+    width: 22%;
+    height: 61px;
+    left: 45%;
+    top: 45%;
+  }
+  .videoBlockText2 {
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 28px;
+    position: relative;
+    left: -25px;
+    top: 190px;
+    width: 301px;
+    height: 112px;
+  }
+  .videoBlockText1 {
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 30px;
+    font-weight: 700;
+    position: relative;
+    left: -25px;
+    top: 188px;
+    margin-bottom: 20px;
+  }
+  .stripe1 {
+    background-image: url(../img/YtShape1.svg);
+    position: relative;
+    background-repeat: no-repeat;
+    width: 22%;
+    height: 61px;
+    left: 40%;
+    top: 40%;
+  }
+  .calendarNumber {
+    display: inline-block;
+    position: relative;
+    width: 70px;
+    height: 70px;
+    margin-left: -6px;
+    z-index: 3;
+  }
+  .calendar2Text2 {
+    width: 76px;
+    height: 34px;
+    color: #18c310;
+    font-family: "Gravity Bold";
+    font-size: 28px;
+    font-weight: 700;
+    position: relative;
+    top: -93px;
+    left: 14px;
+    width: 100px;
+  }
+  .calendar2Img2 {
+    position: relative;
+    top: 88px;
+    left: 22px;
+    width: 100px;
+  }
+  .calendar2Text2SecVal {
+    position: relative;
+    left: -18px;
+  }
+  .calendar2Text2Third {
+    left: -23px;
+  }
+  .arrowsBlock {
+    position: relative;
+    top: -67px;
+    left: -62%;
+    width: 200px;
+  }
+  .arrowsBlock {
+    position: relative;
+    top: -67px;
+    left: -52%;
+    width: 200px;
+  }
+  .listOfCountriesBlock1 {
+    position: relative;
+    left: 100px;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    top: 80px;
+    left: 43%;
+  }
+  .countryBall1 {
+    width: 28px;
+    height: 28px;
+    top: 30px;
+    left: 228%;
+    z-index: 2;
+    display: none;
+  }
+  .countryLine {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #dbdcee;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    left: 215%;
+    top: 71px;
+  }
+
+  .countryArrow {
+    position: relative;
+    left: -212px;
+  }
+  .listOfCountriesBlock > .container > .row {
+    position: relative;
+    left: 9px;
+  }
+  .footerNav {
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    top: 78px;
+    left: 5.5%;
+    display: inline;
+    margin: 16px;
+  }
+  .footerImg {
+    position: relative;
+    top: 159px;
+    left: 49%;
+    width: 394px;
+  }
+  .footerEmail {
+    width: 127px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: 16px;
+    left: 31%;
+  }
+  .footerPhone {
+    width: 145px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: -2px;
+    left: 53%;
+  }
+  .terminologyBlock {
+    position: relative;
+    left: 6%;
+    width: 860px;
+  }
+  .listOfCountriesBlock > .container > .row > .col-sm-4 {
+    position: relative;
+    left: 4%;
+  }
+
+  .avatarText1 {
+    width: 78px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    left: 6%;
+    top: -44px;
+    display: none;
+  }
+  .avatarText2 {
+    width: 91px;
+    height: 15px;
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: underline;
+    position: relative;
+    left: 6%;
+    top: -36px;
+    display: none;
+  }
+  .avatarTextBlock {
+    position: relative;
+    left: 668px;
+    top: -66px;
+  }
+  .popupHideBlock {
+    width: 100%;
+    top: -52px;
+    position: relative;
+    height: 642px;
+    background-color: #000000;
+    opacity: 0.25;
+    z-index: 3;
+    display: none;
+  }
+  .avatarPopup {
+    position: relative;
+    left: 62.5%;
+    top: -693px;
+    width: 265px;
+    height: 409px;
+    -webkit-box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 4;
+    display: none;
+  }
+  .avatarPopup {
+    position: relative;
+    left: 62.5%;
+    top: -693px;
+    width: 265px;
+    height: 409px;
+    -webkit-box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 4;
+    display: none;
+  }
+  .transpButt2Text {
+    position: relative;
+    font-size: 15px;
+    top: 14px;
+    left: -26px;
+  }
+  .valueHolder4 {
+    font-size: 15px;
+    font-family: "Gravity Bold";
+    position: relative;
+    top: 13px;
+    left: 16%;
+  }
+  .btn3 {
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+    background-color: #0c128f;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border: 1px solid #0c128f;
+    display: inline-block;
+    color: white;
+    font-family: "Gravity Bold";
+    font-size: 17px;
+    font-style: normal;
+    line-height: 20px;
+    width: 160px;
+    height: 50px;
+    text-decoration: none;
+  }
+  #customDropdown3 {
+    position: absolute;
+    cursor: pointer;
+    left: -0.4%;
+    top: 77px;
+    z-index: 99;
+    display: block;
+  }
+  .arrowDown3 {
+    width: 14px;
+    height: 8px;
+    position: relative;
+    color: white;
+    left: 147px;
+    top: -20px;
+  }
+  .btn3 {
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+    background-color: #0c128f;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border: 1px solid #0c128f;
+    display: inline-block;
+    color: white;
+    font-family: "Gravity Bold";
+    font-size: 17px;
+    font-style: normal;
+    line-height: 20px;
+    width: 220px;
+    height: 50px;
+    text-decoration: none;
+  }
+  #dropContainer3 {
+    position: relative;
+    top: 10px;
+    left: -2px;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    border: 1px solid;
+    width: 211.5px;
+    background-color: #0c128f;
+    display: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    max-height: 144px;
+    border-top: none;
+  }
+  .defaultValue3 {
+    position: relative;
+    font-family: "Gravity Bold";
+    font-size: 17px;
+    font-weight: 700;
+    top: 2px;
+    left: -10px;
+  }
+  .calendarBlock {
+    position: relative;
+    top: 88px;
+    left: 168px;
+    width: 87%;
+    display: none;
+  }
+  #customDropdown {
+    position: absolute;
+    cursor: pointer;
+    left: 0.2%;
+    top: 89px;
+    z-index: 3;
+    display: none;
+  }
+  .calendar2 > .row {
+    position: relative;
+    left: -34px;
+    top: 89px;
+  }
+  .calendar > .row > .col-sm-11 {
+    position: relative;
+    left: 29px;
+  }
+  .calendar2Text4 {
+    opacity: 0.25;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    position: relative;
+    top: 229px;
+    left: 9%;
+    width: 400px;
+  }
+  .calendar {
+    background-color: #edf2f9;
+    width: 100%;
+    height: 487px;
+    position: relative;
+    left: 0px;
+  }
+  .container > .terminologyBlock > .row {
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+  }
+  .terminologyBlock2 {
+    top: 134px;
+    left: -77px;
+  }
+  .terminologyBlock3 {
+    top: 82px;
+    left: -65px !important;
+  }
+  .listOfCountriesBlock > .container > .row {
+    position: relative;
+    left: -156px;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+  }
+  .terminologyBlock {
+    position: relative;
+    left: 3%;
+    width: 860px;
+  }
+  .listOfCountriesBlock2 {
+    top: 123px !important;
+    left: 10px !important;
+    position: relative;
+  }
+  .listOfCountriesBlock3 {
+    left: 26px !important;
+    position: relative;
+  }
+  .countryArrow {
+    position: relative;
+    left: -282px;
+  }
+  .countryLine {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #dbdcee;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    left: 459px;
+    top: 71px;
+  }
+  .countryBall1 {
+    width: 28px;
+    height: 28px;
+    top: 30px;
+    left: 487px;
+    z-index: 2;
+    display: none;
+  }
+  .footerPhone {
+    width: 145px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: -2px;
+    left: 423px;
+  }
+  .footerEmail {
+    width: 127px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: 16px;
+    left: 229px;
+  }
+  .footerText2 {
+    width: 140px;
+    height: 37px;
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    top: 121.5px;
+    left: 8.5%;
+  }
+  .footerText1 {
+    width: 80%;
+    color: #ffffff;
+    font-family: "Gravity Book";
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 16px;
+    position: relative;
+    top: 71px;
+    left: 8.5%;
+  }
+  .footerNav {
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    top: 47px;
+    left: 6.5%;
+    display: block;
+    margin: 16px;
+  }
+  .footerImg {
+    position: relative;
+    top: 98px;
+    left: 49%;
+    width: 300px;
+  }
+  .footer {
+    height: 581px;
+    background-color: #0c128f;
+  }
+  .transpButt2Text {
+    position: relative;
+    font-size: 15px;
+    top: 14px;
+    left: 11px;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -574px;
+    top: 6px;
+    z-index: 99;
+  }
+  .defaultValue3 {
+    position: relative;
+    font-family: "Gravity Bold";
+    font-size: 17px;
+    font-weight: 700;
+    top: 2px;
+    left: 7px;
+  }
+  .avatarTextBlock {
+    position: relative;
+    left: 525px;
+    top: -66px;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -723px;
+    top: 4px;
+    z-index: 99;
+  }
+  .logo {
+    margin-top: 27px;
+    margin-left: 28px;
+  }
+  .transpButt2Text {
+    position: relative;
+    font-size: 15px;
+    top: 14px;
+    left: -39px;
+  }
+  .avatarTextBlock {
+    position: relative;
+    left: 442px;
+    top: -66px;
+  }
+  .textPresentBold {
+    font-family: "Gravity Bold";
+    font-size: 28px;
+  }
+  .textPresentUssual {
+    font-family: "Gravity Regular";
+    font-size: 13px;
+  }
+  .money1 {
+    position: relative;
+    top: -489px;
+    opacity: 0.15;
+    font-size: 36px;
+    left: 40px;
+    color: #ffffff;
+  }
+  .stripe {
+    width: 100%;
+    height: 455px;
+    position: relative;
+    left: -6px;
+    top: 54px;
+    z-index: 1;
+  }
+  .videoBlock > .row > .col-sm-4 {
+    position: relative;
+    left: 141px;
+    top: -125px;
+  }
+  .videoBlockText1 {
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 30px;
+    font-weight: 700;
+    position: relative;
+    left: -27px;
+    top: 188px;
+    margin-bottom: 20px;
+  }
+  .videoBlockImg {
+    background-image: url(../img/VideoBlockImgPNG.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    width: 400px;
+    height: 266px;
+    opacity: 1.5;
+    margin-top: 130px;
+    margin-left: 52px;
+  }
+  .videoBlock {
+    height: 597px;
+  }
+  .calendarText2 {
+    font-family: "Gravity Book";
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 28px;
+    color: black;
+    position: relative;
+    top: 57px;
+    width: 389px;
+  }
+  .calendarText1 {
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 32px;
+    font-weight: 700;
+    position: relative;
+    top: 40px;
+  }
+  .calendar2Text4 {
+    opacity: 0.25;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    position: relative;
+    top: 229px;
+    left: 13%;
+    width: 400px;
+  }
+  .listOfCountriesBlock {
+    width: 100%;
+    background: #edf2f9;
+    height: 397px;
+    z-index: 0;
+  }
+  .footerEmail {
+    width: 127px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: 4px;
+    left: 76px;
+    margin-top: 50px;
+  }
+  .footerImg {
+    position: relative;
+    top: 141px;
+    left: 45px;
+    width: 300px;
+  }
+  .footerPhone {
+    width: 145px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: 24px;
+    left: 78px;
+  }
+  .footer {
+    height: 677px;
+    background-color: #0c128f;
+  }
+  .calendarText2 {
+    font-family: "Gravity Book";
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    color: black;
+    position: relative;
+    top: 57px;
+    width: 292px;
+  }
+  .calendarText1 {
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 24px;
+    font-weight: 700;
+    position: relative;
+    top: 40px;
+  }
+  .videoBlock {
+    height: 597px;
+    position: relative;
+    left: -73px;
+  }
+  .transpButt2Text {
+    position: relative;
+    font-size: 15px;
+    top: 14px;
+    left: 7px;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -956px;
+    top: 4px;
+    z-index: 99;
+  }
+  .avatarTextBlock {
+    position: relative;
+    left: 283px;
+    top: -66px;
+  }
+  .avatarPopup {
+    position: relative;
+    left: 14.5%;
+    top: -693px;
+    width: 265px;
+    height: 409px;
+    -webkit-box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 4;
+    display: none;
+  }
+  .textPresentBold {
+    font-family: "Gravity Bold";
+    font-size: 18px;
+  }
+  .textPresentUssual {
+    font-family: "Gravity Regular";
+    font-size: 9px;
+  }
+  .imgHeader > .row > .col-sm-6 > .box > .textBox {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 133px;
+    z-index: 2;
+    left: 22%;
+  }
+  .generalInfoContentMoney {
+    height: 282px;
+    border-radius: 2px;
+    position: relative;
+    top: -525px;
+    left: 13%;
+    display: none;
+  }
+  .avatarPopup {
+    position: relative;
+    left: -0.5%;
+    top: -773px;
+    width: 404px;
+    height: 600px;
+    -webkit-box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 100;
+    display: none;
+  }
+  .avatarPopupText9 {
+    position: relative;
+    top: 200px;
+  }
+  .avatarPopupText1 {
+    width: 57px;
+    height: 18px;
+    opacity: 0.25;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    left: 13.5%;
+    top: 354px;
+  }
+  .avatarPopupText3 {
+    width: 186px;
+    height: 21px;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    left: 9%;
+    top: 32px;
+    margin: 19px;
+    cursor: pointer;
+  }
+  .avatarPopupText2 {
+    width: 500px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    left: 14%;
+    top: 367px;
+  }
+  #AvatarNameFamily {
+    width: 171px;
+    height: 54px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 23px;
+    font-weight: 700;
+    display: block !important;
+    position: relative;
+    left: 53px;
+    top: 40px;
+  }
+  .avatarPopupText4 {
+    margin-top: -28px;
+  }
+  .avatarPopupText1 {
+    width: 57px;
+    height: 18px;
+    opacity: 0.25;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    left: 13.5%;
+    top: 403px;
+  }
+  .avatarPopupText9 {
+    position: relative;
+    top: 218px !important;
+  }
+  #closePopup {
+    position: relative;
+    left: 324px;
+    top: -41px;
+    display: block !important;
+  }
+  .avatarPopup1 > .avatarPopup1Img1 {
+    position: relative;
+    left: 31%;
+    height: auto;
+    display: none;
+  }
+  .avatarPopup1Text2 {
+    width: 500px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    left: 1%;
+    top: -42px;
+  }
+  .avatarPopup1 > .avatarPopup1Text3 {
+    position: relative;
+    top: 15px;
+    display: none;
+  }
+  .avatarPopup1 > .avatarPopupText3 {
+    width: 186px;
+    height: 21px;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    left: 7%;
+    top: 32px;
+    margin: 19px;
+    cursor: pointer;
+    display: none;
+  }
+  .avatarPopup1 > hr {
+    display: none;
+  }
+  .bankAccountBlockButton12 {
+    width: 220px;
+    height: 50px;
+    border-radius: 2px;
+    background-color: #0c128f;
+    position: relative;
+    top: -40px;
+    left: 154px;
+  }
+  .bankAccountBlockImg2 {
+    width: 16px;
+    height: 16px;
+    position: relative;
+    top: 17px;
+    left: 69%;
+    display: none !important;
+  }
+  .persInfoBlock {
+    top: 43px;
+    display: none;
+    height: 915px;
+    position: relative;
+    left: -221px;
+    margin-bottom: 64px;
+  }
+  .persDataModuleText1 {
+    width: 31px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 1px;
+    left: 1%;
+  }
+  .persDataModuleInput1 {
+    width: 320px;
+    height: 50px;
+    border-radius: 2px;
+    position: relative;
+    top: 1px;
+    left: 1%;
+  }
+  .persDataModuleText2 {
+    width: 31px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 68px;
+    left: 1%;
+    margin-top: 59px;
+  }
+  .persDataModuleInput2 {
+    width: 320px;
+    height: 50px;
+    border-radius: 2px;
+    position: relative;
+    top: 68px;
+    left: 1%;
+  }
+  .persDataModuleText3 {
+    width: 31px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -157px;
+    left: 4px;
+    margin-top: 43px;
+  }
+  .persDataModuleInput3 {
+    width: 320px;
+    height: 50px;
+    border-radius: 2px;
+    position: relative;
+    top: -157px;
+    left: 5px;
+  }
+  .persDataModuleText4 {
+    width: 61px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -30px;
+    left: 4px;
+  }
+  .persDataModuleInput4 {
+    width: 320px;
+    height: 50px;
+    border-radius: 2px;
+    position: relative;
+    top: -29px;
+    left: 4px;
+  }
+  .persInfoBlockText4 {
+    width: 231px;
+    height: 25px;
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 20px;
+    font-weight: 300;
+    position: relative;
+    top: 172px;
+    left: 1%;
+    margin-top: 200px;
+  }
+  .persInfoBlockText4 {
+    width: 231px;
+    height: 25px;
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 20px;
+    font-weight: 300;
+    position: relative;
+    top: 172px;
+    left: 1%;
+    margin-top: 200px;
+  }
+  .passwordModuleText1 {
+    width: 200px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 80px;
+    left: 25%;
+  }
+  .passwordModuleText2 {
+    width: 200px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 55px;
+    left: -0.7%;
+  }
+  .passwordModuleInput1 {
+    width: 320px;
+    height: 50px;
+    position: relative;
+    top: 60px;
+    left: 1%;
+    left: -0.7%;
+  }
+  .passwordModuleText3 {
+    width: 200px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 84px;
+    left: -0.7%;
+  }
+  .passwordModuleInput2 {
+    width: 320px;
+    height: 50px;
+    position: relative;
+    top: 81px;
+    left: -0.7%;
+  }
+  .passwordModuleText4 {
+    width: 200px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 99px;
+    left: 0;
+  }
+  .passwordModuleInput3 {
+    width: 320px;
+    height: 50px;
+    position: relative;
+    top: 97px;
+    left: -3px;
+  }
+  .persInfoBlock {
+    top: 43px;
+    display: none;
+    height: 1152px;
+    position: relative;
+    left: -221px;
+    margin-bottom: 64px;
+  }
+  .persDataModuleText4 {
+    width: 61px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -30px;
+    left: 4px;
+  }
+  .persDataModuleInput4 {
+    width: 320px;
+    height: 50px;
+    border-radius: 2px;
+    position: relative;
+    top: -29px;
+    left: 4px;
+  }
+  .passwordModuleText1 {
+    width: 200px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 80px;
+    left: 25%;
+  }
+  .passwordModuleText2 {
+    width: 200px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 55px;
+    left: -0.7%;
+  }
+  .passwordModuleInput1 {
+    width: 320px;
+    height: 50px;
+    position: relative;
+    top: 60px;
+    left: 1%;
+    left: -0.7%;
+  }
+  .passwordModuleText3 {
+    width: 200px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 84px;
+    left: -0.7%;
+  }
+  .passwordModuleInput2 {
+    width: 320px;
+    height: 50px;
+    position: relative;
+    top: 81px;
+    left: -0.7%;
+  }
+  .passwordModuleText4 {
+    width: 200px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 99px;
+    left: 0;
+  }
+  .passwordModuleInput3 {
+    width: 320px;
+    height: 50px;
+    position: relative;
+    top: 97px;
+    left: -3px;
+  }
+  .persInfoBlockButton {
+    width: 160px;
+    height: 50px;
+    position: relative;
+    top: 103px;
+    left: 1.5%;
+    background-color: #0c128f;
+    cursor: pointer;
+  }
+  .persInfoBlock {
+    top: 43px;
+    display: none;
+    height: 1152px;
+    position: relative;
+    left: -221px;
+    margin-bottom: 64px;
+  }
+  .passwordModule {
+    height: 400px;
+    position: relative;
+    top: 13px;
+    left: 2%;
+    margin-top: 100px;
+  }
+  .persInfoBlockButton {
+    width: 160px;
+    height: 50px;
+    position: relative;
+    top: 12px;
+    left: 1.5%;
+    background-color: #0c128f;
+    cursor: pointer;
+  }
+  .avatarPopup1Text2 {
+    width: 500px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    left: -10px;
+    top: -42px;
+  }
+  .persInfoBlockText2 {
+    width: 103px;
+    height: 37px;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    text-decoration: underline;
+    position: relative;
+    top: -11px;
+    left: 120px;
+    cursor: pointer;
+  }
+  .passwordModuleText1 {
+    width: 200px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 80px;
+    left: 233px;
+  }
+  .persInfoBlock {
+    top: -545px;
+    display: none;
+    height: 1152px;
+    position: relative;
+    left: 66px;
+    margin-bottom: 64px;
+  }
+  .avatarPopup1 {
+    position: relative;
+    left: 15px;
+    top: 38px;
+    width: 265px;
+    height: 409px;
+    z-index: 4;
+    display: block;
+    margin-bottom: 165px;
+  }
+  .persInfoBlock {
+    top: -545px;
+    display: none;
+    height: 1152px;
+    position: relative;
+    left: 8px;
+    margin-bottom: 64px;
+  }
+  .persInfoBlock {
+    top: -545px;
+    display: none;
+    height: 543px;
+    position: relative;
+    left: 8px;
+    margin-bottom: 64px;
+  }
+  .referalProgramBlock2 {
+    position: relative;
+    top: -796px;
+    left: -1.5%;
+    display: none;
+  }
+  .referalBlockToClick1 {
+    position: relative;
+    top: 1px;
+    left: 69px;
+  }
+  .referalBlockToClick2 {
+    position: relative;
+    top: 1px;
+    left: 101px;
+  }
+  .referalBlockToClick3 {
+    position: relative;
+    top: 15px;
+    left: 16px;
+  }
+  .referalBlockToClick4 {
+    position: relative;
+    top: 1px;
+    left: 64px;
+  }
+  .referalBlockToClick5 {
+    position: relative;
+    top: 39px;
+    left: 18px;
+  }
+  .referalProgramBlock2Text1 {
+    width: 723px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 30px;
+    font-weight: 700;
+    position: relative;
+    top: 1px;
+    left: 9%;
+  }
+  .referalProgramBlock2 {
+    position: relative;
+    top: -796px;
+    left: -1.5%;
+    display: none;
+    height: 0px;
+  }
+  .referalProgramBlock {
+    display: none;
+    position: relative;
+    height: 610px;
+    left: 79px;
+    top: -604px;
+    margin-bottom: 100px;
+  }
+  .bankAccountBlockImg1 {
+    display: none;
+  }
+  .bankAccountBlockImg2 {
+    display: none;
+  }
+  .bankAccountBlockText {
+    display: none;
+  }
+  .referalBlockToClick5 {
+    margin-left: 50px !important;
+  }
+  .referalProgramBlockTex3 {
+    width: 312px;
+    height: 39px;
+    color: #cbd0e8;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: 5px;
+    left: 5px;
+  }
+  .referalProgramBlockTex4 {
+    width: 312px;
+    height: 39px;
+    color: #cbd0e8;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #0c128f;
+    text-decoration: underline;
+    position: relative;
+    top: -12px;
+    left: 5px;
+  }
+  .referalProgramBlock {
+    display: none;
+    position: relative;
+    height: 610px;
+    left: 79px;
+    top: -530px;
+    margin-bottom: 100px;
+  }
+  .referalProgramBlock {
+    display: none;
+    position: relative;
+    height: 0;
+    left: 79px;
+    top: -530px;
+    margin-bottom: 100px;
+  }
+  .referalProgramBlock2 {
+    position: relative;
+    top: -192px;
+    left: -1.5%;
+    display: none;
+  }
+  .referalBlockToClick2 {
+    position: relative;
+    top: 148px;
+    left: -301px;
+    margin-bottom: 134px;
+  }
+  .referalProgramBlock2 {
+    position: relative;
+    top: -192px;
+    left: -1.5%;
+    display: none;
+    height: 543px;
+  }
+  .referalProgramBlock2Text5 {
+    width: 420px;
+    height: 66px;
+    color: #000000;
+    font-family: "Gravity - Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+  }
+  .referalProgramBlock2Text1 {
+    width: 723px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 18px;
+    font-weight: 700;
+    position: relative;
+    top: 1px;
+    left: 9%;
+  }
+  .referalProgramBlock2 {
+    position: relative;
+    top: -192px;
+    left: -10.5%;
+    display: none;
+    height: 543px;
+  }
+  .referalProgramBlock {
+    display: none;
+    position: relative;
+    height: 0;
+    left: 8px;
+    top: -530px;
+    margin-bottom: 100px;
+  }
+  .referalProgramBlockText2 {
+    width: 343px;
+    height: 39px;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: 1px;
+    left: 1%;
+    margin-bottom: 30px;
+  }
+  .referalProgramBlockContent1Text2 {
+    position: relative;
+    top: -55px;
+    left: 4%;
+    width: 400px;
+    height: 34px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .referalProgramBlockSectionImg {
+    position: relative;
+    top: -3px;
+    left: 321px;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -218px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -276px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -232px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -218.5px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 296px !important;
+  }
+  .generalInfoContentGrey > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 291px !important;
+    top: -104px !important;
+  }
+  .bank-card {
+    position: relative;
+    top: 69px !important;
+    left: 0% !important;
+    margin-bottom: -64px;
+  }
+  .generalInfoContentGrey {
+    width: 150%;
+    left: 31% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 288px;
+    top: -104px;
+  }
+  .generalInfoContentGrey > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 286px;
+    top: -104px;
+  }
+  .generalInfoContentGrey > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 289px !important;
+  }
+  .generalInfoContentGrey {
+    width: 180%;
+    left: -4% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .bank-card {
+    position: relative;
+    top: 69px !important;
+    left: 0% !important;
+    margin-bottom: -35px;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 72px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -186px !important;
+    left: -224px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -185.5px !important;
+    left: -222px !important;
+  }
+  .contentGreyImg1 {
+    position: relative;
+    top: 29px;
+    left: 73%;
+  }
+  .generalInfoContentGrey .generalInfoContentGreyText3 {
+    width: 208px;
+    height: 45px;
+    opacity: 0.5;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    position: relative;
+    top: -78px;
+    left: 183px;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -221px !important;
+    left: 77px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -220.5px !important;
+    left: 80px !important;
+  }
+  .generalInfoContentGrey {
+    width: 180%;
+    left: -34% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGrey {
+    width: 180%;
+    left: -25% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyImg1 {
+    position: relative;
+    top: 29px;
+    left: 374px;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -182px !important;
+    left: -227px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -259px !important;
+    left: -391px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -181.5px !important;
+    left: -225px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 68px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -218px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -276px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -232px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -218.5px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 296px !important;
+  }
+  .generalInfoContentGrey > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 291px !important;
+    top: -104px !important;
+  }
+
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -218px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -276px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -232px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -218.5px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey2 > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 296px !important;
+  }
+  .generalInfoContentGrey2 > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 291px !important;
+    top: -104px !important;
+  }
+
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -218px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -276px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -232px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -218.5px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey3 > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 296px !important;
+  }
+  .generalInfoContentGrey3 > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 291px !important;
+    top: -104px !important;
+  }
+  .bank-card {
+    position: relative;
+    top: 69px !important;
+    left: 0% !important;
+    margin-bottom: -64px;
+  }
+  .generalInfoContentGrey {
+    width: 150%;
+    left: 31% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 288px;
+    top: -104px;
+  }
+  .generalInfoContentGrey > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 286px;
+    top: -104px;
+  }
+  .generalInfoContentGrey > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 289px !important;
+  }
+  .generalInfoContentGrey2 > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 286px;
+    top: -104px;
+  }
+  .generalInfoContentGrey2 > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 289px !important;
+  }
+  .generalInfoContentGrey3 > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 286px;
+    top: -104px;
+  }
+  .generalInfoContentGrey3 > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 289px !important;
+  }
+  .generalInfoContentGrey {
+    width: 180%;
+    left: -4% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .bank-card {
+    position: relative;
+    top: 69px !important;
+    left: 0% !important;
+    margin-bottom: -35px;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 72px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -186px !important;
+    left: -224px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -185.5px !important;
+    left: -222px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 72px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -186px !important;
+    left: -224px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -185.5px !important;
+    left: -222px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 72px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -186px !important;
+    left: -224px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -185.5px !important;
+    left: -222px !important;
+  }
+  .contentGreyImg1 {
+    position: relative;
+    top: 29px;
+    left: 73%;
+  }
+  .generalInfoContentGrey .generalInfoContentGreyText3 {
+    width: 208px;
+    height: 45px;
+    opacity: 0.5;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    position: relative;
+    top: -78px;
+    left: 183px;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -221px !important;
+    left: 77px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -220.5px !important;
+    left: 80px !important;
+  }
+
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -221px !important;
+    left: 77px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -220.5px !important;
+    left: 80px !important;
+  }
+
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -221px !important;
+    left: 77px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -220.5px !important;
+    left: 80px !important;
+  }
+  .generalInfoContentGrey {
+    width: 180%;
+    left: -34% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGrey {
+    width: 199%;
+    left: -21% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -218px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -276px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -232px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -218.5px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -218px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -276px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -232px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -218.5px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -218px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -276px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -232px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -218.5px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 296px !important;
+  }
+  .generalInfoContentGrey > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 291px !important;
+    top: -104px !important;
+  }
+  .generalInfoContentGrey2 > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 296px !important;
+  }
+  .generalInfoContentGrey2 > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 291px !important;
+    top: -104px !important;
+  }
+  .generalInfoContentGrey3 > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 296px !important;
+  }
+  .generalInfoContentGrey3 > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 291px !important;
+    top: -104px !important;
+  }
+  .bank-card {
+    position: relative;
+    top: 69px !important;
+    left: 0% !important;
+    margin-bottom: -64px;
+  }
+  .generalInfoContentGrey {
+    width: 150%;
+    left: 31% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 288px;
+    top: -104px;
+  }
+  .generalInfoContentGrey > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 286px;
+    top: -104px;
+  }
+  .generalInfoContentGrey > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 289px !important;
+  }
+  .generalInfoContentGrey2 > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 286px;
+    top: -104px;
+  }
+  .generalInfoContentGrey2 > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 289px !important;
+  }
+  .generalInfoContentGrey3 > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 286px;
+    top: -104px;
+  }
+  .generalInfoContentGrey3 > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 289px !important;
+  }
+  .generalInfoContentGrey {
+    width: 180%;
+    left: -4% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .bank-card {
+    position: relative;
+    top: 69px !important;
+    left: 0% !important;
+    margin-bottom: -35px;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 72px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -186px !important;
+    left: -224px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -185.5px !important;
+    left: -222px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 72px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -186px !important;
+    left: -224px !important;
+  }
+  .generalInfoContentGrey2 > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -185.5px !important;
+    left: -222px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -236px !important;
+    left: 72px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -186px !important;
+    left: -224px !important;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -185.5px !important;
+    left: -222px !important;
+  }
+  .contentGreyImg1 {
+    position: relative;
+    top: 29px;
+    left: 73%;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -180px;
+    left: -231px;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -245px;
+    left: -395px;
+  }
+  .generalInfoContentGrey3 > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 34px;
+    position: relative;
+    top: -218px;
+    left: 264px;
+  }
+  .generalInfoContentGrey3 {
+    width: 76%;
+    left: 23%;
+    top: -166px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -218px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -276px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -232px !important;
+    left: 32px !important;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyInput3 {
+    width: 72px;
+    height: 35px;
+    position: relative;
+    top: -218.5px !important;
+    left: 78px !important;
+  }
+  .generalInfoContentGrey > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 296px !important;
+  }
+  .generalInfoContentGrey > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 291px !important;
+    top: -104px !important;
+  }
+  .bank-card {
+    position: relative;
+    top: 69px !important;
+    left: 0% !important;
+    margin-bottom: -64px;
+  }
+  .generalInfoContentGrey {
+    width: 150%;
+    left: 31% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 288px;
+    top: -104px;
+  }
+  .generalInfoContentGrey > .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 286px;
+    top: -104px;
+  }
+  .generalInfoContentGrey > .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px !important;
+    left: 289px !important;
+  }
+  .contentGreyImg1 {
+    position: relative;
+    top: 29px;
+    left: 386px;
+  }
+  .generalInfoContentGrey3 {
+    width: 85%;
+    left: -12%;
+    top: -178px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyImg1 {
+    position: relative;
+    top: 29px;
+    left: 448px;
+  }
+  .bank-card {
+    position: relative;
+    top: 69px !important;
+    left: 0% !important;
+    margin-bottom: -33px;
+  }
+  .generalInfoContentGrey3 {
+    width: 87%;
+    left: -16%;
+    top: -178px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGrey2 .contentGreyImg3 {
+    position: relative;
+    top: -245px;
+    left: -394px;
+  }
+  .generalInfoContentGrey2 .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -180px;
+    left: -232px;
+  }
+  .generalInfoContentGrey2 {
+    width: 87%;
+    left: -15%;
+    top: -178px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGreyText3 > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -245px;
+    left: -384px;
+  }
+  .generalInfoContentGreyText2 > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -245px;
+    left: -384px;
+  }
+  .generalInfoContentGreyText3 .generalInfoContentGreyText3 {
+    width: 208px;
+    height: 45px;
+    opacity: 0.5;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    position: relative;
+    top: -78px;
+    left: 189px;
+  }
+  .generalInfoContentGreyText3 .generalInfoContentGreyText3 {
+    width: 208px;
+    height: 45px;
+    opacity: 0.5;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    position: relative;
+    top: -78px;
+    left: 189px;
+  }
+  .generalInfoContentGrey3 .contentGreyImg1 {
+    position: relative;
+    top: 29px;
+    left: 414px;
+  }
+  .generalInfoContentGrey3 {
+    width: 100%;
+    left: -37%;
+    top: -178px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGrey2 .contentGreyImg1 {
+    position: relative;
+    top: 29px;
+    left: 414px;
+  }
+  W .generalInfoContentGrey2 {
+    width: 100%;
+    left: -37%;
+    top: -178px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGrey3 {
+    width: 100%;
+    left: -30%;
+    top: -178px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGrey2 {
+    width: 87%;
+    left: -30%;
+    top: -178px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGrey {
+    width: 150%;
+    left: -24% !important;
+    top: -176px !important;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyImg1 {
+    position: relative;
+    top: 29px;
+    left: 388px;
+  }
+  .avatarPopup1 {
+    position: relative;
+    left: 94px;
+    top: 38px;
+    width: 265px;
+    height: auto;
+    z-index: 4;
+    display: block;
+    margin-bottom: 515px;
+  }
+  .bankAccountBlockText2 {
+    width: 250px;
+    height: 72px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 60px;
+    font-weight: 700;
+    position: relative;
+    top: 41px;
+    left: -138px;
+  }
+  .bankAccountBlockText1 {
+    width: 61px;
+    height: 18px;
+    opacity: 0.25;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    top: 41px;
+    left: -138px;
+  }
+  .bankAccountBlockButton1 {
+    width: 220px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    color: #0c128f;
+    position: relative;
+    top: 63px;
+    left: -142px;
+  }
+  .generalInfoContentGrey13 {
+    width: 282%;
+    left: -30%;
+    top: -178px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGrey21 {
+    width: 282%;
+    left: -30%;
+    top: -178px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentNoMoneyText {
+    display: none !important;
+  }
+  .generalInfoContentNoMoneyImg {
+    display: none !important;
+  }
+  .generalInfoContentNoMoneyImg2 {
+    display: none !important;
+  }
+  .generalInfoContentNoMoney {
+    width: 96%;
+    height: 460px;
+    border-radius: 2px;
+    border: none !important;
+    position: relative;
+    top: -523px;
+    display: none;
+    left: -12px;
+    margin-bottom: -475px;
+  }
+  .avatarPopup1Text2 {
+    width: 500px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    left: -90px;
+    top: -42px;
+  }
+  .generalInfoContentNoMoneyText1 {
+    width: 302px;
+    height: 32px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 26px;
+    font-weight: 700;
+    position: relative;
+    top: 35px;
+    left: 4%;
+    margin-bottom: 31px;
+  }
+  .generalInfoContentNoMoneyText2 {
+    width: 265px;
+    height: 39px;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: 35px;
+    left: 4%;
+  }
+  .transactionContentText3 {
+    width: 144px;
+    height: 44px;
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 22px;
+    position: relative;
+    left: 1%;
+    top: 1px;
+    margin-top: 10px;
+  }
+  .generalInfoContentNoMoney {
+    width: 159%;
+    height: 460px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    position: relative;
+    top: -542px;
+    left: 40px;
+    display: none;
+    margin-bottom: -601px;
+  }
+  .transactionContentText1 {
+    width: 519px;
+    height: 31px;
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 19px;
+    font-weight: 800;
+    line-height: 28px;
+    position: relative;
+    left: 4%;
+    top: 1px;
+  }
+  .generalInfoContentNoMoney {
+    width: 159%;
+    height: 460px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    position: relative;
+    top: -542px;
+    left: 9px;
+    display: none;
+    margin-bottom: -601px;
+  }
+  .avatarPopup1Text2 {
+    width: 500px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    left: -52px;
+    top: -42px;
+  }
+  .transactionContent {
+    display: none;
+    height: 800px;
+    position: relative;
+    left: 26%;
+    top: -12px;
+  }
+  .generalInfoContentNoMoneyButton1 {
+    width: 220px;
+    height: 50px;
+    border-radius: 2px;
+    background-color: #0c128f;
+    position: relative;
+    top: 741px !important;
+    left: 4%;
+  }
+  .generalInfoContentNoMoney {
+    width: 78%;
+    height: 460px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    position: relative;
+    top: -542px;
+    left: 16px;
+    display: none;
+    margin-bottom: -398px;
+  }
+  .transactionContentText1 {
+    width: 519px;
+    height: 31px;
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 28px;
+    position: relative;
+    left: 4%;
+    top: 1px;
+  }
+  .avatarPopup1Text2 {
+    width: 500px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    left: -66px;
+    top: -42px;
+  }
+  .generalInfoContentGrey5 {
+    width: 111%;
+    left: -1%;
+    top: -226px;
+    height: 1304px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+
+  .generalInfoContentGreyNoMoney {
+    width: 263%;
+    left: -27%;
+    top: -158px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGreyNoMoney .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -180px;
+    left: -215px;
+  }
+  .generalInfoContentGreyNoMoney .generalInfoContentGreyText3 {
+    width: 208px;
+    height: 45px;
+    opacity: 0.5;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    position: relative;
+    top: -78px;
+    left: 208px;
+  }
+  .generalInfoContentGreyNoMoney.contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 290px;
+    top: -104px;
+  }
+  .generalInfoContentGreyNoMoney.generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px;
+    left: 295px;
+  }
+  .generalInfoContentGreyNoMoney .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -231px;
+    left: 79px !important;
+  }
+  .generalInfoContentGreyNoMoney .contentGreyInput3 {
+    width: 72px;
+    height: 34px;
+    position: relative;
+    top: -181px;
+    left: -213px;
+  }
+  .generalInfoContentGreyNoMoney .contentGreyImg3 {
+    position: relative;
+    top: -245px;
+    left: -379px;
+  }
+  .generalInfoContentNoMoneyButton1 {
+    width: 220px;
+    height: 50px;
+    border-radius: 2px;
+    background-color: #0c128f;
+    position: relative;
+    top: 363px !important;
+    left: 4%;
+  }
+  .transpButt1 {
+    width: 50px;
+    height: 0px;
+    margin-left: 892px;
+    margin-top: -26px;
+    border-radius: 2px;
+    position: relative;
+    left: -38%;
+    top: 0px;
+  }
+  .filled-button {
+    border: 1px solid white;
+    background-color: white;
+    color: #0c128f;
+    position: relative;
+    left: -38%;
+    top: 0;
+  }
+  .money7 {
+    position: relative;
+    top: -1000px;
+    opacity: 0.5;
+    font-size: 60px;
+    left: 500px;
+    color: #ffffff;
+  }
+  .transpButt1 {
+    width: 50px;
+    height: 0px;
+    margin-left: 892px;
+    margin-top: -26px;
+    border-radius: 2px;
+    position: relative;
+    left: -538px;
+    top: -4.5px;
+  }
+  .filled-button {
+    border: 1px solid white;
+    background-color: white;
+    color: #0c128f;
+    position: relative;
+    left: -764px;
+    top: -3px;
+  }
+  .filled-button {
+    border: 1px solid white;
+    background-color: white;
+    color: #0c128f;
+    position: relative;
+    left: -758px;
+    top: 16px;
+  }
+  .transpButt1 {
+    width: 50px;
+    height: 0px;
+    margin-left: 892px;
+    margin-top: -26px;
+    border-radius: 2px;
+    position: relative;
+    left: -649px;
+    top: -23.5px;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -960px !important;
+    top: 4px;
+    z-index: 99;
+  }
+  .textPresentUssual {
+    font-family: "Gravity Regular";
+    font-size: 12px;
+  }
+  .imgHeader > .row > .col-sm-6 > .box > .textBox {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 133px;
+    z-index: 2;
+    left: 11%;
+  }
+  .imgHeader {
+    min-width: 100%;
+    height: 353px;
+    background-color: #0c128f;
+    overflow: hidden;
+  }
+  .popup2 {
+    width: 144%;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    position: relative;
+    left: -14%;
+    height: 768px;
+    top: -768.5px;
+  }
+  .popup2CloseImg {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 52px;
+    left: 421px;
+  }
+  .money4 {
+    position: relative;
+    top: -694px;
+    opacity: 0.5;
+    font-size: 60px;
+    left: 1540px;
+    color: #ffffff;
+  }
+  .moneyBlock {
+    position: relative;
+    top: 80px;
+    left: 104px;
+  }
+  .imgHeader2 {
+    min-width: 100%;
+    background-color: #0c128f;
+    overflow: hidden;
+    margin-top: 0;
+    height: 903px;
+  }
+  .stripe {
+    width: 100%;
+    height: 455px;
+    position: relative;
+    left: -6px;
+    top: 207px;
+    z-index: 1;
+  }
+  .textPresentBoldError1 {
+    width: 585px;
+    height: 120px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 55px;
+    font-weight: 700;
+    position: relative;
+    top: 121px;
+    left: -269px;
+  }
+  .textPresentBoldError2 {
+    width: 761px;
+    height: 43px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 16px;
+    font-weight: 700;
+    position: relative;
+    top: 83px;
+    left: -346px;
+  }
+
+  .textPresentBoldError3 {
+    width: 140px;
+    height: 37px;
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    top: 400px;
+    left: -30px;
+  }
+  .textPresentBoldError4 {
+    width: 144px;
+    height: 19px;
+    color: #0c128f;
+    font-family: "Gravity - Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: 11px;
+    left: 23px;
+  }
+  .buttonError {
+    width: 192px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    position: relative;
+    top: 127px;
+    left: -123px;
+  }
+  .imgHeader > .row > .col-sm-6 > .box > .textBox {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 133px;
+    z-index: 2;
+    left: 17%;
+    margin-top: -101px;
+  }
+  .imgHeader {
+    min-width: 100%;
+    background-color: #0c128f;
+    overflow: hidden;
+    margin-top: 0;
+    height: 803px;
+  }
+  .textPresentBoldError3 {
+    width: 140px;
+    height: 37px;
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    top: 400px;
+    left: -102px;
+  }
+  .MainBlock > .imgHeader {
+    min-width: 100%;
+    background-color: #0c128f;
+    overflow: hidden;
+    margin-top: 0;
+    height: 666px;
+  }
+  .imgHeader > .row > .col-sm-6 > .box > .textBox {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 417px;
+    z-index: 2;
+    left: 17%;
+    margin-top: -101px;
+  }
+  .imgHeader2 {
+    min-width: 100%;
+    background-color: #0c128f;
+    overflow: hidden;
+    margin-top: 0;
+    height: 775px;
+  }
+  .stripe {
+    width: 100%;
+    height: 455px;
+    position: relative;
+    left: -6px;
+    top: 86px;
+    z-index: 1;
+  }
+  .moneyBlock {
+    position: relative;
+    top: -57px;
+    left: 104px;
+  }
+  .textBox2 {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 102px;
+    left: 140px;
+    z-index: 2;
+  }
+  .buttonError {
+    width: 192px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    position: relative;
+    top: 102px;
+    left: -123px;
+  }
+  .textPresentBoldError2 {
+    width: 761px;
+    height: 43px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 16px;
+    font-weight: 700;
+    position: relative;
+    top: 64px;
+    left: -346px;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -985px !important;
+    top: 4px;
+    z-index: 99;
+  }
+  .filled-button {
+    border: 1px solid white;
+    background-color: white;
+    color: #0c128f;
+    position: relative;
+    left: -742px;
+    top: 16px;
+  }
+  .transpButt1 {
+    width: 50px;
+    height: 0px;
+    margin-left: 892px;
+    margin-top: -26px;
+    border-radius: 2px;
+    position: relative;
+    left: -632px;
+    top: -23.5px;
+  }
+  .textPageBlockText1 {
+    width: 220px;
+    height: 20px;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: 33px;
+    left: 0;
+    margin: 23px;
+  }
+  .textPageText1 {
+    width: 545px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    top: 1px;
+    left: 35px;
+    margin-top: 60px;
+  }
+  .textPageBlock2Text2 {
+    width: 507px;
+    height: 132px;
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    margin-bottom: 28px;
+  }
+  .textPageBlock2 {
+    position: relative;
+    top: 58px;
+    height: 870px;
+  }
+  .textPageText1 {
+    width: 545px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    top: 1px;
+    left: 62px;
+    margin-top: 60px;
+  }
+  .textPageBlockText1 {
+    width: 220px;
+    height: 20px;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: 33px;
+    left: 36px;
+    margin: 23px;
+  }
+  .textPageBlock2 {
+    position: relative;
+    top: 58px;
+    left: 48px;
+    height: 870px;
+  }
+  .textPageText1 {
+    width: 545px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 23px;
+    font-weight: 700;
+    position: relative;
+    top: 28px;
+    left: 20px;
+    margin-top: 60px;
+  }
+  .textPageBlockText1 {
+    width: 220px;
+    height: 20px;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: 20px;
+    left: 0px;
+    margin: 23px;
+  }
+  .textPageBlock2 {
+    position: relative;
+    top: 58px;
+    left: 24px;
+    height: 870px;
+  }
+  .textPageBlock2Text1 {
+    width: 380px;
+    height: 26px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 22px;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    margin-bottom: 25px;
+  }
+  .textPageBlock2Text2 {
+    width: 362px;
+    height: 132px;
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    margin-bottom: 63px;
+  }
+  .textPageBlock2 {
+    position: relative;
+    top: 58px;
+    left: 2px;
+    height: 1197px;
+  }
+  .textPageBlockText1 {
+    width: 220px;
+    height: 20px;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: 20px;
+    left: -19px;
+    margin: 23px;
+  }
+  .textPageText1 {
+    width: 245px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 23px;
+    font-weight: 700;
+    position: relative;
+    top: 8px;
+    left: 3px;
+    margin-top: 60px;
+  }
+  .textPageBlock2Text1 {
+    width: 290px;
+    height: 26px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 22px;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    margin-bottom: 25px;
+  }
+  .textPageBlock2Text2 {
+    width: 311px;
+    height: 132px;
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    margin-bottom: 105px;
+  }
+  .textPageBlock2 {
+    position: relative;
+    top: 58px;
+    left: 2px;
+    height: 1341px;
+  }
+}

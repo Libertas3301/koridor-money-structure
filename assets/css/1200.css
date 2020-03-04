@@ -1,0 +1,1851 @@
+@media only screen and (max-width: 1200px) and (min-width: 1000px) {
+  .contact-block {
+    position: relative;
+    left: -142px;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -22.4%;
+    top: 12px;
+    z-index: 99;
+  }
+  .phone-block {
+    position: relative;
+    left: -118px;
+  }
+  .arrowsBlock {
+    position: relative;
+    top: -37px;
+    left: -4%;
+    width: 200px;
+  }
+  .avatarTextBlock {
+    position: relative;
+    left: 762px;
+    top: -64px;
+  }
+  .avatarText1 {
+    width: 78px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    left: 5%;
+    top: -44px;
+    display: block;
+  }
+  .avatarText2 {
+    width: 91px;
+    height: 15px;
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: underline;
+    position: relative;
+    left: 5%;
+    top: -36px;
+    display: block;
+  }
+  .avatarTextImg1 {
+    width: 50px;
+    height: 50px;
+    background-image: url("../img/logo2.png");
+    background-repeat: no-repeat;
+    display: block;
+  }
+  .transpButt1 {
+    width: 50px;
+    height: 0px;
+    margin-left: 892px;
+    margin-top: -26px;
+    border-radius: 2px;
+    position: relative;
+    left: 8%;
+  }
+  .filled-button {
+    border: 1px solid white;
+    background-color: white;
+    color: #0c128f;
+    position: relative;
+    left: 12%;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -14.4%;
+    top: 12px;
+    z-index: 99;
+  }
+  .avatarTextImg1 {
+    width: 50px;
+    height: 50px;
+    background-image: url("../img/avatar1.png");
+    background-repeat: no-repeat;
+  }
+  .calendarNumber {
+    display: inline-block;
+    position: relative;
+    width: 70px;
+    height: 70px;
+    margin-left: 20px;
+    z-index: 3;
+  }
+  .calendar2 > .row {
+    flex-wrap: nowrap;
+  }
+  .calendar {
+    background-color: #edf2f9;
+    width: 100%;
+    height: 544px;
+    position: relative;
+    left: 0px;
+  }
+  #customDropdown {
+    position: absolute;
+    cursor: pointer;
+    left: 0.2%;
+    top: 89px;
+    z-index: 3;
+  }
+  .terminologyText1 {
+    width: 360px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    left: 0;
+    margin-top: 50px;
+    margin-bottom: 40px;
+  }
+  .terminologyBlock11 {
+    position: relative;
+  }
+  .terminologyBlock1 {
+    width: 360px;
+    height: 430px;
+    background-color: #0c128f;
+    position: relative;
+    left: 5.5px;
+  }
+  .terminologyBlock2 {
+    top: 134px;
+  }
+  .terminologyBlock3 {
+    top: 82px;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: 11%;
+  }
+  .calendarImg1 {
+    position: relative;
+    top: -22.5px;
+    left: 949px;
+    transform: rotate(90deg);
+    z-index: 4;
+    padding: 10px;
+  }
+  .calendar2 {
+    position: relative;
+    top: -61px;
+    left: -5px;
+  }
+  .terminologyBlock {
+    position: relative;
+    left: 10%;
+  }
+  .listOfCountriesBlock > .container > .row > .col-sm-4 {
+    position: relative;
+    left: -5%;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: 0;
+  }
+  .money12 {
+    position: relative;
+    top: -611px;
+    left: 948px !important;
+    opacity: 0.5;
+    font-size: 60px;
+    left: 1083px;
+    color: #ffffff;
+  }
+  .money15 {
+    position: relative;
+    top: -1059px;
+    opacity: 0.5;
+    font-size: 60px;
+    left: 945px;
+    color: #ffffff;
+  }
+  .videoBlockImg {
+    background-image: url(../img/VideoBlockImgPNG.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    width: 600px;
+    height: 266px;
+    opacity: 1.5;
+    margin-top: 130px;
+    margin-left: -50px;
+  }
+  .stripe1 {
+    background-image: url(../img/YtShape1.svg);
+    position: relative;
+    background-repeat: no-repeat;
+    width: 15%;
+    height: 61px;
+    left: 45%;
+    top: 45%;
+  }
+  .videoBlockText2 {
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 28px;
+    position: relative;
+    left: -25px;
+    top: 190px;
+    width: 360px;
+    height: 112px;
+  }
+  .videoBlockText1 {
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 33px;
+    font-weight: 700;
+    position: relative;
+    left: -25px;
+    top: 188px;
+    margin-bottom: 20px;
+  }
+  .calendar > .row > .col-sm-11 {
+    position: relative;
+    left: -57px;
+  }
+  .calendarNumber {
+    display: inline-block;
+    position: relative;
+    width: 70px;
+    height: 70px;
+    margin-left: 5px;
+    z-index: 3;
+  }
+  .arrowsBlock {
+    position: relative;
+    top: -37px;
+    left: -27%;
+    width: 200px;
+  }
+  .calendar2 {
+    position: relative;
+    top: -61px;
+    left: -45px;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: 11%;
+  }
+  .terminologyText2 {
+    width: 280px;
+    height: 31px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 18px;
+    font-weight: 700;
+    position: relative;
+    margin: 0 auto;
+    top: 40px;
+    left: 24px;
+  }
+  .terminologyBlock1 {
+    width: 265px;
+    height: 391px;
+    background-color: #0c128f;
+    position: relative;
+    left: 5.5px;
+  }
+  .terminologyBlock2 {
+    top: 134px;
+  }
+  .terminologyBlock2 {
+    top: 134px;
+  }
+  .terminologyText4 {
+    width: 79px;
+    height: 19px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    margin: 0 auto;
+    top: 13px;
+  }
+  .terminologyButton1 {
+    width: 120px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    position: relative;
+    top: 58px;
+    left: 10%;
+  }
+  .terminologyBlock3 .terminologyButton1 {
+    top: 17px;
+  }
+  .terminologyBlock11 .terminologyButton1 {
+    top: 38px;
+  }
+  .terminologyText3 {
+    width: 195px;
+    height: 242px;
+    color: #ffffff;
+    font-family: "Gravity Book";
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    margin: 0 auto;
+    top: 50px;
+    left: -9px;
+  }
+  .terminologyBlock3 .terminologyText3 {
+    top: 68px;
+  }
+  .terminologyBlock {
+    position: relative;
+    left: 12%;
+    width: 860px;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: -38%;
+  }
+  .terminologyLine {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #dbdcee;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    left: 127%;
+    top: 71px;
+  }
+  .termBall1 {
+    width: 28px;
+    height: 28px;
+    top: 30px;
+    left: 121%;
+    z-index: -2;
+    display: none;
+  }
+  .listOfCountriesBlock1 {
+    position: relative;
+    left: 100px;
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    top: 80px;
+    left: 43%;
+  }
+  .listOfCountriesText2 {
+    width: 280px;
+    height: 22px;
+    opacity: 0.5;
+    color: #ffffff;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    text-decoration: underline;
+    position: relative;
+    top: -129px;
+    left: 8.5%;
+    cursor: pointer;
+  }
+  .listOfCountriesText1 {
+    width: 280px;
+    height: 31px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 26px;
+    font-weight: 700;
+    position: relative;
+    top: -126px;
+    left: 8%;
+  }
+  .listOfCountriesBlock > .container > .row {
+    position: relative;
+    left: -55px;
+  }
+  .countryArrow {
+    position: relative;
+    left: -84px;
+  }
+  .countryBall1 {
+    width: 28px;
+    height: 28px;
+    top: 30px;
+    left: 165%;
+    z-index: 2;
+    display: none;
+  }
+  .countryLine {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #dbdcee;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    left: 156%;
+    top: 71px;
+  }
+  .footerEmail {
+    width: 127px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: 16px;
+    left: 29%;
+  }
+  .footerPhone {
+    width: 145px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: -2px;
+    left: 50%;
+  }
+  .footerText1 {
+    width: 80%;
+    color: #ffffff;
+    font-family: "Gravity Book";
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 16px;
+    position: relative;
+    top: 136px;
+    left: 8.5%;
+  }
+  .footerImg {
+    position: relative;
+    top: 159px;
+    left: 59%;
+    width: 394px;
+  }
+  .calendar2Active {
+    opacity: 1;
+    background-color: #0c128f;
+    border: 2px solid #0c128f;
+    position: relative;
+    top: 13px;
+    width: 145px;
+  }
+  .transactionContentMoney {
+    display: none;
+    position: relative;
+    height: 1046px;
+  }
+  .generalInfoContent > .row > .col-sm-8 {
+    position: relative;
+    left: -120px;
+  }
+  .generalInfoContentGrey {
+    width: 92%;
+    left: 31%;
+    top: -226px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -226px;
+    left: 86px;
+  }
+  .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -180px;
+    left: -212px;
+  }
+  .contentGreyInput3 {
+    width: 72px;
+    height: 34px;
+    position: relative;
+    top: -180px;
+    left: -209px;
+  }
+  .generalInfoContentGrey {
+    width: 92%;
+    left: 35%;
+    top: -226px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .bankAccountBlockButton1 {
+    width: 220px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    color: #0c128f;
+    position: relative;
+    top: -25px;
+    left: 36%;
+  }
+  .generalInfoContentMoney {
+    width: 96%;
+    height: 460px;
+    border-radius: 2px;
+    position: relative;
+    top: 0;
+    left: 15%;
+    display: none;
+  }
+  .avatarPopup1 {
+    position: relative;
+    left: 23px;
+    top: 38px;
+    width: 265px;
+    height: 409px;
+    z-index: 4;
+    display: block;
+    margin-bottom: 165px;
+  }
+  .generalInfoContentGrey {
+    width: 92%;
+    left: 20%;
+    top: -226px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyInput4 {
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: -73px;
+    left: 53px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 17px;
+    font-weight: 700;
+  }
+  .generalInfoContentGreyText2 {
+    width: 100px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    text-transform: uppercase;
+    position: relative;
+    top: -72px;
+    left: 54px;
+  }
+  .generalInfoContentGreyText3 {
+    width: 208px;
+    height: 45px;
+    opacity: 0.5;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    position: relative;
+    top: -119px;
+    left: 189px;
+  }
+  .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 53%;
+    top: -104px;
+  }
+  .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px;
+    left: 54%;
+  }
+  .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 300px;
+    top: -104px;
+  }
+  .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px;
+    left: 319px;
+  }
+  .generalInfoContentGrey3 {
+    width: 102%;
+    left: 20%;
+    top: -226px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -201px;
+    left: -421px !important;
+  }
+  .generalInfoContentGrey2 {
+    width: 75%;
+    left: 328px;
+    top: -175px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -231px;
+    left: 84px !important;
+  }
+  .bankAccountBlock {
+    height: 900px;
+    position: relative;
+    top: 0;
+    left: 40px;
+    display: none;
+  }
+  .calendar2Text2 {
+    width: 76px;
+    height: 34px;
+    color: #18c310;
+    font-family: "Gravity Bold";
+    font-size: 18px;
+    font-weight: 700;
+    position: relative;
+    top: -93px;
+    left: 32px;
+    width: 100px;
+  }
+  .calendar2Text2 {
+    width: 76px;
+    height: 34px;
+    color: #18c310;
+    font-family: "Gravity Bold";
+    font-size: 18px;
+    font-weight: 700;
+    position: relative;
+    top: -90px;
+    left: 21px !important;
+    width: 100px;
+  }
+  .calendar2Text2SecVal {
+    position: relative;
+    left: -3px !important;
+  }
+  .todayIncome > .row > .col-sm-2 > .hoverBlock4 {
+    position: relative;
+    left: 28%;
+    top: 43px !important;
+  }
+  .yesterdayIncome > .row > .col-sm-2 > .hoverBlock4 {
+    position: relative;
+    left: 28%;
+    top: 43px !important;
+  }
+  .showMoreIncome > .row > .col-sm-2 > .hoverBlock4 {
+    position: relative;
+    left: 28%;
+    top: 43px !important;
+  }
+  .calendar2Active {
+    opacity: 1;
+    background-color: #0c128f;
+    border: 2px solid #0c128f;
+    position: relative;
+    top: 13px;
+    width: 121px;
+  }
+  .yesterdayIncomeText1 {
+    opacity: 0.25;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    top: 7px;
+    left: -73%;
+    width: 100px;
+  }
+  .showMoreIncomeText1 {
+    opacity: 0.25;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    top: 7px;
+    left: -73%;
+    width: 100px;
+  }
+  .bankAccountBlockButton2 {
+    width: 220px;
+    height: 50px;
+    border-radius: 2px;
+    background-color: #0c128f;
+    position: relative;
+    top: -77px;
+    left: 503px;
+  }
+  .transactionContentMoney {
+    display: none;
+    position: relative;
+    height: 1046px;
+    left: 45px;
+  }
+
+  .persInfoBlock {
+    display: none;
+    height: 915px;
+    position: relative;
+    left: 60px;
+  }
+  .persInfoBlock {
+    top: 31px;
+    display: none;
+    height: 915px;
+    position: relative;
+    left: 33px;
+  }
+  .passwordModuleText4 {
+    width: 200px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -43px;
+    left: 380px;
+  }
+  .passwordModuleInput3 {
+    width: 320px;
+    height: 50px;
+    position: relative;
+    top: -43px;
+    left: 380px;
+  }
+  .referalProgramBlockTex3 {
+    width: 312px;
+    height: 39px;
+    color: #cbd0e8;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: -42px;
+    left: 494px;
+  }
+  .referalProgramBlockTex4 {
+    width: 312px;
+    height: 39px;
+    color: #cbd0e8;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #0c128f;
+    text-decoration: underline;
+    position: relative;
+    top: -64px;
+    left: 494px;
+  }
+  .referalProgramBlock {
+    display: none;
+    position: relative;
+    height: 610px;
+    left: 64px;
+  }
+  .referalProgramBlock2 > .row :nth-child(3) {
+    margin-left: 42px !important;
+  }
+  .referalProgramBlock2Text5 {
+    width: 436px;
+    height: 66px;
+    color: #000000;
+    font-family: "Gravity - Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+  }
+  .referalProgramBlock2Text3 {
+    width: 225px;
+    height: 153px;
+    color: #000000;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+  }
+  .referalProgramBlockTex3 {
+    width: 312px;
+    height: 39px;
+    color: #cbd0e8;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: 2px;
+    left: 198px;
+  }
+  .referalProgramBlockTex4 {
+    width: 312px;
+    height: 39px;
+    color: #cbd0e8;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #0c128f;
+    text-decoration: underline;
+    position: relative;
+    top: -15px;
+    left: 198px;
+  }
+  .generalInfoContentGrey > .bank-card > .contentGreyImg3 {
+    position: relative;
+    top: -245px;
+    left: -380px;
+  }
+  .generalInfoContentGrey2 {
+    width: 75%;
+    left: 289px;
+    top: -175px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .contentGreyImg3 {
+    position: relative;
+    top: -245px;
+    left: -378px;
+  }
+  .generalInfoContentGrey3 {
+    width: 102%;
+    left: 20%;
+    top: -169px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGrey3 .contentGreyImg1 {
+    position: relative;
+    top: 29px;
+    left: 68%;
+  }
+  .generalInfoContentGrey2 {
+    width: 82%;
+    left: 225px;
+    top: -175px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .persInfoBlockText2 {
+    width: 103px;
+    height: 37px;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    text-decoration: underline;
+    position: relative;
+    top: -11px;
+    left: 132px;
+    cursor: pointer;
+  }
+  .generalInfoContentGrey5 {
+    width: 93%;
+    left: 24%;
+    top: -226px;
+    height: 1306px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGreyNoMoney {
+    width: 92%;
+    left: 33%;
+    top: -264px;
+    height: 1148px;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    z-index: 200000;
+    position: absolute;
+    display: none;
+  }
+  .generalInfoContentGreyNoMoney .contentGreyInput2 {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    top: -180px;
+    left: -215px;
+  }
+  .generalInfoContentGreyNoMoney .generalInfoContentGreyText3 {
+    width: 208px;
+    height: 45px;
+    opacity: 0.5;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    position: relative;
+    top: -78px;
+    left: 208px;
+  }
+  .generalInfoContentGreyNoMoney.contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 290px;
+    top: -104px;
+  }
+  .generalInfoContentGreyNoMoney.generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px;
+    left: 295px;
+  }
+  .generalInfoContentGreyNoMoney .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -231px;
+    left: 79px !important;
+  }
+  .generalInfoContentGreyNoMoney .contentGreyImg3 {
+    position: relative;
+    top: -245px;
+    left: -379px;
+  }
+  .transpButt1 {
+    width: 50px;
+    height: 0px;
+    margin-left: 892px;
+    margin-top: -26px;
+    border-radius: 2px;
+    position: relative;
+    left: -11%;
+  }
+  .filled-button {
+    border: 1px solid white;
+    background-color: white;
+    color: #0c128f;
+    position: relative;
+    left: -9%;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -9.6%;
+    top: 2px;
+    z-index: 99;
+  }
+  .popup2 {
+    width: 60%;
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.15);
+    background-color: #edf2f9;
+    position: relative;
+    left: 41%;
+    height: 768px;
+    top: -768.5px;
+  }
+  .money4 {
+    position: relative;
+    top: -694px;
+    opacity: 0.5;
+    font-size: 60px;
+    left: 1540px;
+    color: #ffffff;
+  }
+  .moneyBlock {
+    position: relative;
+    top: 80px;
+    left: 104px;
+  }
+  .imgHeader2 {
+    min-width: 100%;
+    background-color: #0c128f;
+    overflow: hidden;
+    margin-top: 0;
+    height: 903px;
+  }
+  .stripe {
+    width: 100%;
+    height: 455px;
+    position: relative;
+    left: -6px;
+    top: 207px;
+    z-index: 1;
+  }
+  .textPresentBoldError1 {
+    width: 585px;
+    height: 120px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 100px;
+    font-weight: 700;
+    position: relative;
+    top: 121px;
+    left: -280px;
+  }
+  .textPresentBoldError2 {
+    width: 761px;
+    height: 43px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    top: 117px;
+    left: -280px;
+  }
+  .textPresentBoldError3 {
+    width: 140px;
+    height: 37px;
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    top: 400px;
+    left: -250px;
+  }
+  .textPresentBoldError4 {
+    width: 144px;
+    height: 19px;
+    color: #0c128f;
+    font-family: "Gravity - Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: 11px;
+    left: 23px;
+  }
+  .buttonError {
+    width: 192px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    position: relative;
+    top: 140px;
+    left: -260px;
+  }
+  .textPageBlockText1 {
+    width: 220px;
+    height: 20px;
+    color: #0c128f;
+    font-family: "Gravity Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    position: relative;
+    top: 33px;
+    left: 50px;
+    margin: 23px;
+  }
+  .textPageText1 {
+    width: 545px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    top: 1px;
+    left: 90px;
+    margin-top: 60px;
+  }
+  .textPageBlock2Text2 {
+    width: 647px;
+    height: 132px;
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: 1px;
+    left: 1px;
+  }
+  .textPageBlock2 {
+    position: relative;
+    top: 58px;
+    height: 796px;
+  }
+}
+@media only screen and (max-width: 1200px) and (min-width: 1100px) {
+  .listOfCountriesBlock > .container > .row > .col-sm-4 {
+    position: relative;
+    left: 0%;
+  }
+}
+@media only screen and (max-width: 1100px) and (min-width: 1000px) {
+  .avatarTextBlock {
+    position: relative;
+    left: 762px;
+    top: -64px;
+  }
+  .avatarText1 {
+    width: 78px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    left: 5%;
+    top: -44px;
+    display: block;
+  }
+  .avatarText2 {
+    width: 91px;
+    height: 15px;
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: underline;
+    position: relative;
+    left: 5%;
+    top: -36px;
+    display: block;
+  }
+  .phone-block {
+    position: relative;
+    left: -71px;
+  }
+  .contact-block {
+    position: relative;
+    left: -89px;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -7.4%;
+    top: 12px;
+    z-index: 99;
+  }
+  .videoBlockImg {
+    background-image: url(../img/VideoBlockImgPNG.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    width: 700px;
+    height: 366px;
+    opacity: 1.5;
+    margin-top: 96px;
+    margin-left: -50px;
+  }
+  .arrowsBlock {
+    position: relative;
+    top: -37px;
+    left: -11%;
+    width: 200px;
+  }
+  .terminologyBlock {
+    position: relative;
+    left: 5%;
+  }
+  .footerText1 {
+    width: 1039px;
+    color: #ffffff;
+    font-family: "Gravity Book";
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 16px;
+    position: relative;
+    top: 136px;
+    left: 8.5%;
+  }
+  .contact-block {
+    position: relative;
+    left: -142px;
+  }
+  .phone-block {
+    position: relative;
+    left: -118px;
+  }
+  .arrowsBlock {
+    position: relative;
+    top: -37px;
+    left: -4%;
+    width: 200px;
+  }
+  .avatarTextBlock {
+    position: relative;
+    left: 790px;
+    top: -64px;
+  }
+  .avatarText1 {
+    width: 78px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    left: 5%;
+    top: -44px;
+    display: block;
+  }
+  .avatarText2 {
+    width: 91px;
+    height: 15px;
+    color: #ffffff;
+    font-family: "Gravity Regular";
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: underline;
+    position: relative;
+    left: 5%;
+    top: -36px;
+    display: block;
+  }
+  .avatarTextImg1 {
+    width: 50px;
+    height: 50px;
+    background-image: url("../img/logo2.png");
+    background-repeat: no-repeat;
+    display: block;
+  }
+  .transpButt1 {
+    width: 50px;
+    height: 0px;
+    margin-left: 892px;
+    margin-top: -26px;
+    border-radius: 2px;
+    position: relative;
+    left: 8%;
+  }
+  .filled-button {
+    border: 1px solid white;
+    background-color: white;
+    color: #0c128f;
+    position: relative;
+    left: 12%;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -14.4%;
+    top: 12px;
+    z-index: 99;
+  }
+  .avatarTextImg1 {
+    width: 50px;
+    height: 50px;
+    background-image: url("../img/avatar1.png");
+    background-repeat: no-repeat;
+  }
+  .calendarNumber {
+    display: inline-block;
+    position: relative;
+    width: 70px;
+    height: 70px;
+    margin-left: 20px;
+    z-index: 3;
+  }
+  .calendar2 > .row {
+    flex-wrap: nowrap;
+  }
+  .calendar {
+    background-color: #edf2f9;
+    width: 100%;
+    height: 544px;
+    position: relative;
+    left: 0px;
+  }
+  #customDropdown {
+    position: absolute;
+    cursor: pointer;
+    left: 0.2%;
+    top: 89px;
+    z-index: 3;
+  }
+  .terminologyText1 {
+    width: 360px;
+    height: 43px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    left: 0;
+    margin-top: 50px;
+    margin-bottom: 40px;
+  }
+  .terminologyBlock11 {
+    position: relative;
+  }
+  .terminologyBlock1 {
+    width: 360px;
+    height: 430px;
+    background-color: #0c128f;
+    position: relative;
+    left: 5.5px;
+  }
+  .terminologyBlock2 {
+    top: 134px;
+  }
+  .terminologyBlock3 {
+    top: 82px;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: 11%;
+  }
+  .calendarImg1 {
+    position: relative;
+    top: -22.5px;
+    left: 949px;
+    transform: rotate(90deg);
+    z-index: 4;
+    padding: 10px;
+  }
+  .calendar2 {
+    position: relative;
+    top: -61px;
+    left: -5px;
+  }
+  .terminologyBlock {
+    position: relative;
+    left: 10%;
+  }
+  .listOfCountriesBlock > .container > .row > .col-sm-4 {
+    position: relative;
+    left: -5%;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: 0;
+  }
+  .money12 {
+    position: relative;
+    top: -611px;
+    left: 948px !important;
+    opacity: 0.5;
+    font-size: 60px;
+    left: 1083px;
+    color: #ffffff;
+  }
+  .money15 {
+    position: relative;
+    top: -1059px;
+    opacity: 0.5;
+    font-size: 60px;
+    left: 945px;
+    color: #ffffff;
+  }
+  .videoBlockImg {
+    background-image: url(../img/VideoBlockImgPNG.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    width: 600px;
+    height: 266px;
+    opacity: 1.5;
+    margin-top: 130px;
+    margin-left: -50px;
+  }
+  .stripe1 {
+    background-image: url(../img/YtShape1.svg);
+    position: relative;
+    background-repeat: no-repeat;
+    width: 15%;
+    height: 61px;
+    left: 45%;
+    top: 45%;
+  }
+  .videoBlockText2 {
+    color: #000000;
+    font-family: "Gravity Book";
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 28px;
+    position: relative;
+    left: -25px;
+    top: 190px;
+    width: 360px;
+    height: 112px;
+  }
+  .videoBlockText1 {
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 33px;
+    font-weight: 700;
+    position: relative;
+    left: -25px;
+    top: 188px;
+    margin-bottom: 20px;
+  }
+  .calendar > .row > .col-sm-11 {
+    position: relative;
+    left: -57px;
+  }
+  .calendarNumber {
+    display: inline-block;
+    position: relative;
+    width: 70px;
+    height: 70px;
+    margin-left: 5px;
+    z-index: 3;
+  }
+  .arrowsBlock {
+    position: relative;
+    top: -37px;
+    left: -27%;
+    width: 200px;
+  }
+  .calendar2 {
+    position: relative;
+    top: -61px;
+    left: -45px;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: 11%;
+  }
+  .terminologyText2 {
+    width: 280px;
+    height: 31px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 18px;
+    font-weight: 700;
+    position: relative;
+    margin: 0 auto;
+    top: 40px;
+    left: 24px;
+  }
+  .terminologyBlock1 {
+    width: 265px;
+    height: 391px;
+    background-color: #0c128f;
+    position: relative;
+    left: 5.5px;
+  }
+  .terminologyBlock2 {
+    top: 134px;
+  }
+  .terminologyBlock2 {
+    top: 134px;
+  }
+  .terminologyText4 {
+    width: 79px;
+    height: 19px;
+    color: #0c128f;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    margin: 0 auto;
+    top: 13px;
+  }
+  .terminologyButton1 {
+    width: 120px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    position: relative;
+    top: 58px;
+    left: 10%;
+  }
+  .terminologyBlock3 .terminologyButton1 {
+    top: 17px;
+  }
+  .terminologyBlock11 .terminologyButton1 {
+    top: 38px;
+  }
+  .terminologyText3 {
+    width: 195px;
+    height: 242px;
+    color: #ffffff;
+    font-family: "Gravity Book";
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    margin: 0 auto;
+    top: 50px;
+    left: -9px;
+  }
+  .terminologyBlock3 .terminologyText3 {
+    top: 68px;
+  }
+  .terminologyBlock {
+    position: relative;
+    left: 12%;
+    width: 860px;
+  }
+  .terminologyArrow {
+    position: relative;
+    left: -38%;
+  }
+  .terminologyLine {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #dbdcee;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    left: 127%;
+    top: 71px;
+  }
+  .termBall1 {
+    width: 28px;
+    height: 28px;
+    top: 30px;
+    left: 121%;
+    z-index: -2;
+    display: none;
+  }
+  .listOfCountriesBlock1 {
+    position: relative;
+    left: 100px;
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    top: 80px;
+    left: 43%;
+  }
+  .listOfCountriesText2 {
+    width: 280px;
+    height: 22px;
+    opacity: 0.5;
+    color: #ffffff;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    text-decoration: underline;
+    position: relative;
+    top: -129px;
+    left: 8.5%;
+    cursor: pointer;
+  }
+  .listOfCountriesText1 {
+    width: 280px;
+    height: 31px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 26px;
+    font-weight: 700;
+    position: relative;
+    top: -126px;
+    left: 8%;
+  }
+  .listOfCountriesBlock > .container > .row {
+    position: relative;
+    left: -55px;
+  }
+  .countryArrow {
+    position: relative;
+    left: -84px;
+  }
+  .countryBall1 {
+    width: 28px;
+    height: 28px;
+    top: 30px;
+    left: 165%;
+    z-index: 2;
+    display: none;
+  }
+  .countryLine {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #dbdcee;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    left: 156%;
+    top: 71px;
+  }
+  .footerEmail {
+    width: 127px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: 16px;
+    left: 29%;
+  }
+  .footerPhone {
+    width: 145px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Gravity Bold";
+    font-size: 15px;
+    font-weight: 700;
+    position: relative;
+    top: -2px;
+    left: 50%;
+  }
+  .footerText1 {
+    width: 80%;
+    color: #ffffff;
+    font-family: "Gravity Book";
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 16px;
+    position: relative;
+    top: 136px;
+    left: 8.5%;
+  }
+  .footerImg {
+    position: relative;
+    top: 159px;
+    left: 59%;
+    width: 394px;
+  }
+  .terminologyBlock {
+    position: relative;
+    left: 9%;
+  }
+  .listOfCountriesBlock > .container > .row > .col-sm-4 {
+    position: relative;
+    left: -3%;
+  }
+  .money6 {
+    position: relative;
+    top: -758px;
+    opacity: 0.15;
+    font-size: 36px;
+    left: 400px;
+    color: #ffffff;
+  }
+  .money7 {
+    position: relative;
+    top: -867px;
+    opacity: 0.5;
+    font-size: 60px;
+    left: 500px;
+    color: #ffffff;
+  }
+  .transpButt1 {
+    width: 50px;
+    height: 0px;
+    margin-left: 892px;
+    margin-top: -26px;
+    border-radius: 2px;
+    position: relative;
+    left: -18%;
+    top: -4px;
+  }
+  .filled-button {
+    border: 1px solid white;
+    background-color: white;
+    color: #0c128f;
+    position: relative;
+    left: -18%;
+    top: -1px;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    top: 2px;
+    z-index: 99;
+    left: -18%;
+    top: -1px;
+  }
+  .phone-block {
+    position: relative;
+    left: -172px;
+    top: -4px;
+  }
+  .contact-block {
+    position: relative;
+    left: -191px;
+    top: -4px;
+  }
+}
+@media only screen and (max-width: 1050px) and (min-width: 1000px) {
+  .listOfCountriesBlock > .container > .row > .col-sm-4 {
+    position: relative;
+    left: -4%;
+  }
+  .contentGreyInput1 {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    top: -231px;
+    left: 84px !important;
+  }
+  .contentGreyCurrency1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border: 1px solid #cbd0e8;
+    background-color: #ffffff;
+    position: relative;
+    left: 283px;
+    top: -104px;
+  }
+  .generalInfoContentGreyText5 {
+    width: 55px;
+    height: 25px;
+    color: #0c128f;
+    font-family: "Gravity Book";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    position: relative;
+    top: -113px;
+    left: 284px;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -22.4%;
+    top: 12px;
+    z-index: 99;
+  }
+  .avatarTextBlock {
+    position: relative;
+    left: 764px;
+    top: -63px;
+  }
+  .generalInfoContentMoneyBlock1Img {
+    position: relative;
+    top: 18px;
+    left: 169px;
+  }
+  .generalInfoContentMoneyBlock4Img {
+    position: relative;
+    top: -17px;
+    left: 193px;
+  }
+  .transpButt1 {
+    width: 50px;
+    height: 0px;
+    margin-left: 892px;
+    margin-top: -26px;
+    border-radius: 2px;
+    position: relative;
+    left: -19%;
+    top: 0px;
+  }
+  .filled-button {
+    border: 1px solid white;
+    background-color: white;
+    color: #0c128f;
+    position: relative;
+    left: -19%;
+    top: 0;
+  }
+  #customDropdown2 {
+    position: absolute;
+    cursor: pointer;
+    left: -21.6%;
+    top: 0;
+    z-index: 99;
+  }
+}
+@media only screen and (max-width: 1044px) and (min-width: 1000px) {
+  .contentGreyInput3 {
+    width: 72px;
+    height: 34px;
+    position: relative;
+    top: -218px;
+    left: 285px;
+  }
+}
